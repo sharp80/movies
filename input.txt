@@ -1,0 +1,2833 @@
+HTTP/1.1 200 OK
+Date: Fri, 08 Feb 2013 16:21:25 GMT
+Server: Apache
+Cache-Control: 
+Expires: 0
+P3P: policyref="http://www.walla.co.il/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+Pragma: no-cache
+REFRESH: 605
+walla-gzip: yes
+Vary: Accept-Encoding
+Keep-Alive: timeout=3, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=windows-1255
+Content-Length: 186479
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="he" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<META name="fb:app_id" content="133472246670311" />
+<META name="og:site_name" content="וואלה! סרטים" />
+<META name="og:image" content="http://isc.wcdn.co.il/w9/v/movies/fb.jpg" />
+<META http-equiv="CONTENT-TYPE" content="TEXT/HTML; CHARSET=windows-1255" />
+<META http-equiv="CACHE-CONTROL" content="private" />
+<META name="DESCRIPTION" content="אתר הסרטים של וואלה! המעודכן והמקיף בישראל. כל הסרטים החדשים, בתי הקולנוע, שעות הקרנה, טריילרים, ביקורות, שחקנים, בקרוב, DVD וארכיון סרטים" />
+<META property="og:type" CONTENT="website" /> 
+<link rel="stylesheet" type="text/css" href="http://www.walla.co.il/wgcss/11.css">
+<link rel="stylesheet" type="text/css" href="/wacss/4.css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.walla.co.il/favicon.ico">
+<link title="Walla!" rel="search" type="application/opensearchdescription+xml" href="http://www.walla.co.il/@/js/WallaIE7.xml">
+<link rel="alternate" type="application/rss+xml" title="וואלה! סרטים" href="http://rss.walla.co.il/?w=/28/3200/1/@rss">
+<title>וואלה! סרטים</title>
+<script type="text/javascript">var _gaq = _gaq || [];	_gaq.push(['_setAccount', 'UA-4780630-1']);	_gaq.push(['_setDomainName', 'walla.co.il']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+</head>
+<body>
+
+
+
+				<script type="text/javascript">
+					var fusHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+					document.write(unescape("%3Cscript src='" + fusHost + "fus.walla.co.il/script.js?1' type='text/javascript'%3E%3C/script%3E")); 
+				</script>
+				<script type="text/javascript">
+			
+				try{
+				
+					function rf_ck(val,t){
+						var myD = document.location.host;
+						var now=new Date();
+						var d = new Date(now.getFullYear(),now.getMonth(),now.getDate(),now.getMinutes()+t,now.getSeconds());
+						var curCookie = "ZZZrf_ck=" + val +"; expires=" + d.toGMTString() + ";path=/; domain=" + myD;
+						document.cookie = curCookie;
+					}
+					function refresh(){
+						rf_ck(1,100);
+						window.location.reload(true);
+					}
+					window.Fusion.parameters["rf_ck"] = "";
+					rf_ck(0,-100);
+					var _timer = "605";
+					if(_timer>0) setTimeout("refresh()",_timer*1000);
+					
+					var adtVideoTagA="";
+					var adtVideoTagB="";
+					window.Fusion.adServer = "fus.walla.co.il";
+					window.Fusion.parameters["targetingMode"] = "ExclusiveOR";
+					window.Fusion.parameters["affiliate"]= "0";
+					window.Fusion.parameters["age"]= "O";
+					window.Fusion.parameters["gender"]= "O";
+					window.Fusion.parameters["agegroup"] = "99";
+					window.Fusion.parameters["cdn"] = "WBE";
+					window.Fusion.parameters["user_group"] = "";
+					window.Fusion.parameters["walla_geo_country"] = "IL";
+					window.Fusion.parameters["ssl"] = (("https:" == document.location.protocol) ? "yes" : "no");
+					window.Fusion.parameters["WTI"]= 0 ? "yes" : "no";
+					
+					
+				
+				//window.Fusion.mediaZone = "walla.movies.rashi.main";
+				//window.Fusion.layout = "v14";
+				
+				window.Fusion.mediaZone = "walla.movies.rashi.main";
+				window.Fusion.layout = "v14";
+			window.Fusion.parameters["exclusive.exclusive"] = window.Fusion.parameters["exclusive"] = "yesplanet";				
+					if(window.Fusion.layout=="") window.Fusion.layout = "v14";	
+					window.Fusion.parameters["wtu"] = "yes";				
+					window.Fusion.loadAds();
+					
+					
+					
+				}catch(e){
+					adtVideoTagA="";
+					adtVideoTagB="";
+				}			
+				if(adtVideoTagA=="" || adtVideoTagB==""){
+					adtVideoTagA="";
+					adtVideoTagB="";
+				}	
+			</script><script type="text/javascript"> window.Fusion.space("prestitial1"); </script><div align="center" id="site_wrapper">
+<div class="site_content">
+
+<script>
+	function checkSearchInput(elm,isOut){
+		if(elm.value=="" && isOut==1){
+			//put google BG
+			removeClass(elm,"isFocus");
+		}
+		else{
+			// remove google BG
+			addClass(elm,"isFocus");
+		}
+		
+	}
+	function switchVals(){
+		document.getElementById('q').value=document.getElementById('tmpq').value;
+		document.getElementById('tmpq').value="";
+	}	
+</script>
+<script type="text/javascript" src="http://www.walla.co.il/2009/@/js/walla.js?58"></script>
+
+<script>
+var wallaApp = {
+	location : 'walla.movies'
+};
+function Evt(elemEvt,evtCn,evtVal,evtPage,DivName,eventType){ try{ document.getElementById("cnImg").src="http://events.walla.co.il/events.asp?version=9&c=index.&Provider=&location=walla.movies.&event_type="+eventType+"&Keys="+evtVal+";"+evtCn+"&DIvName="+DivName+"&page_location="+evtPage+"&un=yshef&geo=WBE&url="+elemEvt.href; }catch(e){} }
+var TrackPageEvt = function(){
+	var Trackstring;
+	var mainTitle="";
+	try{
+		switch(arguments[0]){
+			case "MA":
+				eval(unescape("%54%72%61%63%6B%73%74%72%69%6E%67%3D%22%2F%4D%6F%72%65%41%72%74%69%63%6C%65%73%2F%3F%4D%41%5F%54%69%74%6C%65%3D%22%2B%61%72%67%75%6D%65%6E%74%73%5B%31%5D%2B%22%26%4D%41%5F%53%75%62%44%6F%6D%61%69%6E%3D%6D%6F%76%69%65%73%26%4D%41%5F%46%72%6F%6D%50%61%67%65%3D%22%2B%6C%6F%63%61%74%69%6F%6E%2E%68%72%65%66%2B%22%26%4D%41%5F%54%6F%50%61%67%65%3D%22%2B%61%72%67%75%6D%65%6E%74%73%5B%32%5D%3B"));
+				break;
+			case "Co"://link add comment
+				eval(unescape("%54%72%61%63%6B%73%74%72%69%6E%67%3D%22%2F%43%6F%6D%6D%65%6E%74%42%75%74%74%6F%6E%2F%3F%4D%41%5F%54%69%74%6C%65%3D%22%2B%6D%61%69%6E%54%69%74%6C%65%2B%22%26%4D%41%5F%53%75%62%44%6F%6D%61%69%6E%3D%6D%6F%76%69%65%73%26%4D%41%5F%46%72%6F%6D%50%61%67%65%3D%22%2B%6C%6F%63%61%74%69%6F%6E%2E%68%72%65%66%3B"));
+				break;
+			case "Ac"://onsubmit
+				eval(unescape("%54%72%61%63%6B%73%74%72%69%6E%67%3D%22%2F%41%64%64%43%6F%6D%6D%65%6E%74%2F%3F%4D%41%5F%54%69%74%6C%65%3D%22%2B%6D%61%69%6E%54%69%74%6C%65%2B%22%26%4D%41%5F%53%75%62%44%6F%6D%61%69%6E%3D%6D%6F%76%69%65%73%26%4D%41%5F%46%72%6F%6D%50%61%67%65%3D%22%2B%6C%6F%63%61%74%69%6F%6E%2E%68%72%65%66%3B"));
+				break;
+		}
+		pageTracker._trackPageview(Trackstring);
+	}catch(e){}
+}
+</script>
+<style type="text/css">
+	.mail_bar{height:23px;height:"24px";border:1px solid #9a9a9a;border-top:none;text-align:right;direction:rtl;padding:0 7px 0 4px;background:url(http://isc.wcdn.co.il/w9/v/top_toolbar/top_grd02.gif) repeat-x;}
+	.mail_bar ul{font-size:11px;height:17px;}
+	.mail_bar li.mb_cell{height:11px;height:"12px";margin-top:3px;padding-top:1px;}
+	.mail_bar li.mb_cell_search{margin-top:3px;margin-top:"2px";width:153px;}
+	.mail_bar li.mb_cell .mb_btn{padding:0 5px;display:inline-block}
+	.mail_bar .mb_sep{height:12px;width:1px;background-color:#bebebe;font-size:1px;margin:5px 0px 0;margin-top:"5px";}
+	.mail_bar .mb_sep_inline{display:inline-block;width:1px;height:12px;background-color:#bebebe;font-size:1px;vertical-align:-2;}
+	.mail_bar a,.mail_bar span{text-decoration:none;font-size:11px;color:black;}
+	
+	.mail_bar li .mb_nick{display:inline-block;text-align:left;}
+	.mail_bar li .mb_read_mail{display:inline-block;/*width:43px;width:"60px";*/padding-right:17px;margin:0 10px 0 3px;background:url(http://isc.wcdn.co.il/w9/v/top_toolbar/mail.gif) no-repeat 100% 2px;}
+	.mail_bar li .mb_new_mail{margin-left:4px;}
+	
+	.mail_bar li a.mb_btn_drp{display:block;padding:0 5px 0 15px;background:url(http://isc.wcdn.co.il/w9/v/top_toolbar/arr.gif) no-repeat 5px 7px;}
+	.mail_bar .mb_drop{background:white;border:1px solid #9a9a9a;border-top:1px solid #d7d7d7;right:-1px;right:"-2px";margin-top:5px;padding-bottom:3px;}
+	.mail_bar .mb_drop a.mb_drop_btn{padding:3px 5px 0 0;display:block;color:#666666;font-weight:bold;}
+	.mail_bar .mb_drop a:hover{/*background:#ffffff;*/color:#000088;}
+	.mail_bar .mb_drop .mb_drop_footer{background:#9a9a9a;height:17px;margin-top:10px;padding-right:3px;}
+	.mail_bar .mb_drop .mb_drop_close_btn{color:white;display:inline-block;padding-right:15px;margin-top:2px;background:url(http://isc.wcdn.co.il/w9/v/top_toolbar/close.gif) no-repeat right 2px;}
+	#makeHp{width:89px;width:"91px";z-index:10;display:none;}
+	#newWalla{width:309px;width:"311px";z-index:10;display:none;}
+	#newWalla .mb_drop_col{width:100px;width:"103px";padding-right:3px;}
+	.mail_bar form a.srchBtn{display:block;zoom:1;height:17px;margin-top:"1px";font-size:11px;line-height:16px;color:white;width:31px;text-align:center;background:#000066 url(http://isc.wcdn.co.il/w9/v/top_toolbar/search_btn.gif) no-repeat;}
+	.mail_bar form a.srchBtn:hover{color:white;background:#000066 url(http://isc.wcdn.co.il/w9/v/top_toolbar/search_btn_over.gif) no-repeat;}
+	.mail_bar form .srchInpt{display:block;zoom:1;height:17px;border:1px solid #b6b6b6;width:116px;padding:0 3px;font-size:11px;margin-left:4px;background:#ffffff url(http://isc.wcdn.co.il/w9/v/top_toolbar/google.gif) right 2px no-repeat;}
+	.mail_bar form .srchInpt.isFocus{background-image:none;}
+	
+	.mail_bar a:hover,.mail_bar a:hover span{text-decoration:none;color:#000066;}
+	
+	.top_banner_outer{text-align:center;background:#f4f4f4;border-top:2px solid #dddddd;padding:4px 0 7px;zoom:1;z-index:"1";}
+	.top_banner_inner{margin:0 auto;width:920px;}
+	.top_pina{width:2px;height:2px;position:absolute;bottom:0;bottom:expression(navigator.appVersion.indexOf("MSIE 8")>=0?"0":"-1");}
+	.top_pina_right{right:0}
+	.top_pina_left{left:0}
+</style>
+<div class="mail_bar">
+	<ul class="relative">
+	<li class="right mb_cell"><a class="mb_btn" href="http://www.walla.co.il/" onclick="Evt(this,0,&quot;main&quot;,3,&quot;TopMainWalla&quot;,1)">וואלה! ראשי</a></li><li class="right mb_sep"></li><li class="right mb_cell relative zoom1">
+			<a class="mb_btn_drp" style="background:none" href="http://help.walla.co.il/?w=/1908//1775987/@help">הפוך לדף הבית</a>
+			<div id="makeHp" class="mb_drop absolute">
+				<a class="mb_drop_btn" href="javascript:void(0);" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.walla.co.il')">וואלה! ראשי</a><a class="mb_drop_btn" href="javascript:void(0);" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://movies.walla.co.il')">וואלה! סרטים</a>
+			</div>
+		</li><li class="right mb_cell" style="text-align:center;width:338px;">
+			<span class="mb_nick bold">שלום אורח</span><a class="mb_read_mail bold" href="http://mail.walla.co.il" onclick="Evt(this,0,&quot;readmail&quot;,3,&quot;TopReadMail&quot;,1)"><span class="">קרא דואר</span></a><span class="mb_sep_inline" style=""></span><a class="mb_btn bold" href="http://friends.walla.co.il/ts.cgi?tsscript=reg" onclick="Evt(this,0,&quot;opennew&quot;,3,&quot;TopOpenNewMailBox&quot;,1)">פתח תיבת דואר חינם!</a>
+		</li><li class="left zoom1 mb_cell_search">
+			<form action="http://search.walla.co.il/" name="wtsrch" onsubmit="switchVals()">
+				<input type="hidden" name="gsearch" value="mailbar">
+				<input type="hidden" name="e" value="hew"/>
+				<input type="hidden" name="q" id="q" value="" />
+				<div class="left"><a class="srchBtn bold" href="#" onclick="Evt(this,0,&quot;search&quot;,3,&quot;TopSearchLeft&quot;,1);wtsrch.submit();">חפש</a></div>
+				<div class="left" style="overflow:hidden;"><input type="text" onfocus="checkSearchInput(this,0)" onblur="checkSearchInput(this,1)" class="srchInpt" name="tmpq" id="tmpq" size="18" onkey/></div>
+				<span class="wcflow"></span>
+			</form>
+		</li><li class="left mb_cell" style="margin-left:10px;"><a class="mb_btn" href="http://weather.walla.co.il/" onclick="Evt(this,0,&quot;weather&quot;,3,&quot;TopMoreLeftLinks&quot;,1)">מזג אוויר</a></li>
+		<li class="left mb_sep"></li>
+		<li class="left mb_cell"><a class="mb_btn" href="http://maps.walla.co.il/" onclick="Evt(this,2,&quot;maps&quot;,3,&quot;TopMoreLeftLinks&quot;,1)">מפות</a></li>
+		<li class="left mb_sep"></li>
+		<li class="left mb_cell"><a class="mb_btn" href="http://www.wallashops.co.il" onclick="Evt(this,3,&quot;shops&quot;,3,&quot;TopMoreLeftLinks&quot;,1)">קניות</a></li>
+		<li class="left mb_sep"></li>
+		<li class="left mb_cell"><a class="mb_btn" href="http://www.yad2.co.il" onclick="Evt(this,3,&quot;yad2&quot;,3,&quot;TopMoreLeftLinks&quot;,1)"><img src="http://isc.wcdn.co.il/w9/v/top_toolbar/yad2.gif"></a></li>
+		
+	</ul>
+</div>
+
+	<iframe id="img1" name="img1" width="0" height="0" style="display:none;margin:5px 0;" src="http://a.walla.co.il/adf.cgi?l=walla.movies.&c=index.&pg=yesplanet&p=&s=9000&net=&bg=f4f4f4&tp=&geo=IL&aii=&ait=&aiw=&acp=&nop=1&rot=1&frame=&version=9&ma="></iframe>
+	
+<style type="text/css">
+	.topTick{width:311px;width:"324px";padding-right:13px;border-right:1px solid #e0e0e0;height:34px;font-size:12px;margin-top:11px;overflow:hidden;}
+	.topTick a.tick_title {text-decoration:none;}
+	.topTick a.tick_title:hover {text-decoration:underline;}
+	.topTick .fs11{font-size:11px;}
+	.topTick .ticker{margin-top:3px;width:307px;overflow:hidden;height:14px;line-height:12px;}
+	.topTick a.tick{text-decoration:none;height:14px;color:#000088;}
+	.topTick a.tick:hover{}
+	.topTick a.tick .time{color:black;height:14px;vertical-align:top;}
+	.topTick a.tick .title{width:270px;height:14px;height:"auto";overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:top;vertical-align:"auto";}
+	.topTick a.tick .red{color:red;}
+	.topTick a.tick:hover span.title{color:#000088;text-decoration:underline;cursor:pointer;}
+</style>
+
+<div id="topTick_sep" style="height:20px;"></div><table bgcolor=white border=0 cellpadding=0 cellspacing=0 width=100% class=wtable height=45 style="direction:rtl">
+			<tr>
+				<td valign=bottom width=130><a id="logo_section" name="logo_section" href="http://www.walla.co.il/"><img src=http://isc.wcdn.co.il/w9/t/walla.gif border=0></a></td>
+				<td valign="bottom" width=135><a id="txtlogo" href="/"><img src=http://isc.wcdn.co.il/w9/t/movies.gif border=0 alt="סרטים"></a></td><td><div class="left topTick">
+							<a class="bold txt-n in_blk tick_title" style="margin-left:8px;" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=0&geo=IL&url=http://news.walla.co.il/?w=/22">מבזקי חדשות</a><span class="txt-w fs11">8.2.2013</span><div class="ticker" onmouseover="topTick.pause();" onmouseout="topTick.resume();"><div class="relative"><div class="absolute" id="topTickHolder">
+							<a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2615009" title="חשד: האקר פרץ לחשבון האימייל של ג'ורג' בוש הבן"><span class="time in_blk">17:45</span> <span class="title bold in_blk ">חשד: האקר פרץ לחשבון האימייל של ג'ורג' בוש הבן</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2615007" title="בן 13 מטירת הכרמל נפל לבור; מצבו בינוני"><span class="time in_blk">17:32</span> <span class="title bold in_blk ">בן 13 מטירת הכרמל נפל לבור; מצבו בינוני</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2615004" title="בן 21 נפצע קשה מפגיעת אבן בראשו בקריית אתא"><span class="time in_blk">17:08</span> <span class="title bold in_blk ">בן 21 נפצע קשה מפגיעת אבן בראשו בקריית אתא</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2615001" title="תימן: פיצוץ בצינור הנפט הראשי, הזרימה הופסקה"><span class="time in_blk">16:48</span> <span class="title bold in_blk ">תימן: פיצוץ בצינור הנפט הראשי, הזרימה הופסקה</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2614994" title="סוריה: 54 עובדים במפעל צבאי נהרגו בפיצוץ באוטובוס"><span class="time in_blk">15:48</span> <span class="title bold in_blk ">סוריה: 54 עובדים במפעל צבאי נהרגו בפיצוץ באוטובוס</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2614992" title="חילופי יריות ברמלה: שניים נעצרו, כלב נורה למוות"><span class="time in_blk">15:44</span> <span class="title bold in_blk ">חילופי יריות ברמלה: שניים נעצרו, כלב נורה למוות</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2614988" title="בנק לאומי: לקוחותינו מתבקשים להיזהר מהונאה"><span class="time in_blk">15:06</span> <span class="title bold in_blk ">בנק לאומי: לקוחותינו מתבקשים להיזהר מהונאה</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2614987" title="פלסטינים הפגינו במספר כפרים בגדה המערבית"><span class="time in_blk">15:02</span> <span class="title bold in_blk ">פלסטינים הפגינו במספר כפרים בגדה המערבית</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2614978" title="טוניסיה: שוטרים ירו גז מדמיע על מפגינים שהתפרעו"><span class="time in_blk">14:00</span> <span class="title bold in_blk ">טוניסיה: שוטרים ירו גז מדמיע על מפגינים שהתפרעו</span></a><a class="block tick" href="http://events.walla.co.il/WidgetEvent.asp?un=yshef&l=walla.movies.&c=whp.&cp=3&event_type=1&DivName=mivzakon&page_location=1&geo=IL&url=http://news.walla.co.il/?w=/22/2614975" title="רעש אדמה בעוצמה 7.1 הורגש באיי שלמה, אין נפגעים"><span class="time in_blk">13:39</span> <span class="title bold in_blk ">רעש אדמה בעוצמה 7.1 הורגש באיי שלמה, אין נפגעים</span></a>
+							</div></div></div>
+							</div></td>
+			</tr>
+		</table>
+
+<style type="text/css">
+	.top_toolbar{padding:0 2px;margin-top:6px;}
+	.top_toolbar .btm_sep{z-index:"-1";position:relative;font-size:0;height:7px;background-image:url(http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/lower_btn.gif);background-repeat:repeat-x;}
+	.top_toolbar .btm_sep .btm_sep_r{position:absolute;height:7px;width:3px;right:-2px;right:expression(navigator.appVersion.indexOf("MSIE 8")>=0?"-2px":"-2px");}
+	.top_toolbar .btm_sep .btm_sep_l{position:absolute;height:7px;width:3px;left:-2px;}
+	.top_toolbar .r_long_sep{height:100%;width:2px;right:-2px;right:expression(navigator.appVersion.indexOf("MSIE 8")>=0?"-2px":"-2px");}
+	.top_toolbar .l_long_sep{height:100%;width:2px;left:-2px;}
+	.top_toolbar .tb_content{height:27px;background:#e0e0e0 url(http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/upper_graysolid.gif) repeat-x;}
+	.top_toolbar .tb_content .c_r{position:absolute;height:27px;width:3px;right:0;right:expression(navigator.appVersion.indexOf("MSIE 8")>=0?"0px":"0px");}
+	.top_toolbar .tb_content .c_l{position:absolute;height:27px;width:3px;left:0;}
+	.top_toolbar ul{list-style:none;zoom:1;padding:0 12px;}
+	.top_toolbar .tb_btn_curr{width:74px;height:27px;background-image:url(http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/btn_fill.gif);background-repeat:repeat-x;}
+	.top_toolbar .tb_btn_curr a.tb_a{display:block;height:27px;font-size:14px;text-decoration:none;line-height:27px;color:white;}
+	.top_toolbar .tb_btn_curr .c_r2{height:27px;margin-right:"-3px";}
+	.top_toolbar .tb_btn_curr .c_l2{height:27px;margin-left:"-3px";}
+	.top_toolbar .tb_btn{width:70px;height:27px;overflow:hidden;}
+	.top_toolbar .tb_btn a.tb_a{margin-top:1px;display:block;height:24px;font-size:14px;text-decoration:none;line-height:26px;color:#000000;overflow:hidden;}
+	.top_toolbar .tb_btn a.tb_a:hover{display:block;background-color:#feffff;}
+	.top_toolbar .greenLine{direction:rtl;width:295px;height:27px;font-size:12px;line-height:27px;text-align:left;}
+	.top_toolbar .greenLine a{font-size:12px;font-weight:bold;color:#339900;text-decoration:none;}
+	.top_toolbar .tb_sep{font-size:0;}
+	.top_toolbar .tb_sep .tb_sep_img{tb_sep_img;width:1px;height:27px;}
+</style>
+<div><img id="cnImg" src="http://isc.wcdn.co.il/w9/h/trans.gif" style="width:1px;height:1px;" alt=""/></div>
+<div class="top_toolbar" id="top_toolbar">
+			<div class="tb_content">
+				<div class="relative" style="width:100%">
+					<img class="c_r" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/round_corner_right.gif?1" alt=""/>
+					<img class="c_l" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/round_corner_left.gif?1" alt=""/>
+				</div>
+				<ul>					
+					<li class="tb_btn_curr right ver_bg ">
+			<img class="right c_r2" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/btn_corner_right.gif?1" alt=""/>
+			<img class="left c_l2" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/btn_corner_left.gif?1" alt=""/>
+			<a class="tb_a" onclick="Evt(this,0,&quot;סרטים&quot;,3,&quot;TopBar&quot;,1)" href="http://movies.walla.co.il/">
+				סרטים
+			</a>
+		</li><li class="tb_btn right "><a class="tb_a" onclick="Evt(this,1,&quot;טלוויזיה&quot;,3,&quot;TopBar&quot;,1)" href="http://tv.walla.co.il/">טלוויזיה</a></li><li class="tb_sep right"><img class="tb_sep_img" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/seperator.gif?2" alt=""/></li><li class="tb_btn right "><a class="tb_a" onclick="Evt(this,2,&quot;DVD&quot;,3,&quot;TopBar&quot;,1)" href="http://movies.walla.co.il/?w=/@dvd">DVD</a></li><li class="tb_sep right"><img class="tb_sep_img" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/seperator.gif?2" alt=""/></li>
+<style type="text/css">
+	.tb_btn_chan{width:114px !important;overflow:visible !important;}
+	.tb_btn_chan .tb_a{padding-left:15px;background:url(http://isc.wcdn.co.il/w9/v/top_toolbar/arr.gif) 15px 13px no-repeat;}
+	#chans_folder{display:none;}
+	.channels_tab{position:absolute;z-index:2;bottom:-1px;bottom:-1px;right:-1;width:114px;width:"116px";height:25px;line-height:26px;line-height:"25px";background-color:white;border-right:1px solid #d7d7d7;border-left:1px solid #d7d7d7;cursor:pointer;}
+	.channels_tab .tp_span{padding-left:15px;background:url(http://isc.wcdn.co.il/w9/v/top_toolbar/arr.gif) 15px 13px no-repeat;}
+	.channels{width:488px;width:"501px";padding:15px 11px 10px 0;position:absolute;z-index:10;right:-1;background-color:white;border:1px solid #d7d7d7;}
+	.channels .chans_folder_container{text-align:right;zoom:1;direction:rtl;}
+	.channels .col_w0{width:116px;}
+	.channels .col_w1{width:134px;}
+	.channels .col_w2{width:126px;}
+	.channels .col_w3{width:91px;}
+	.channels .col_w4{width:104px;}
+	.channels .letter_cont{background-color:#e7e7e7;}
+	.channels .letter_label{color:#aaaaaa;top:0;right:0px;text-align:center;width:15px;}
+	.channels .chans_cont{margin-right:15px;padding-right:5px;background:white;}
+	.channels .chan_div a.chan{color:#000066;text-decoration:none;}
+	.channels .chan_div a.chan:hover, .channels .chan_div:hover a.chan{text-decoration:underline !important;}
+	.channels .chan_spacing{height:7px;line-height:7px;font-size:0;overflow:hidden;background:white;zoom:1}
+</style>
+<li class="tb_btn right" style="font-weight: bold;"><a class="tb_a" style="color:#00aeef;" href="http://video.walla.co.il" onclick="Evt(this,0,&quot;VOD&quot;,3,&quot;TopBar&quot;,1)">VOD</a></li>
+	   <li class="tb_sep right"><img class="tb_sep_img" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/seperator.gif" alt=""></li>	
+<li class="tb_btn right tb_btn_chan"><a class="tb_a" onclick="TopShowPopup(&quot;chans_folder&quot;,event);channelsFixOffsetAndLayout();return false;" href="#">ערוצים נוספים</a>
+	<div class="relative zoom1" style="z-index:10;">
+		<div id="chans_folder">
+			<div class="channels_tab w3"><span class="tp_span block">ערוצים נוספים</span></div>
+			<div class="channels">
+				<div id="chans_folder_container" class="chans_folder_container w3">
+					<div class="col_w0 right zoom1">
+		<div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">א</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,0,&quot;ערוצים,אוכל&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://food.walla.co.il">אוכל</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,0,&quot;ערוצים,אופנה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://fashion.walla.co.il">אופנה</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,0,&quot;ערוצים,אלבומי תמונות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://www.wallashops.co.il/ws/print/Main.aspx">אלבומי תמונות</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,0,&quot;ערוצים,אסטרולוגיה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://astrology.walla.co.il">אסטרולוגיה</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ב</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,4,&quot;ערוצים,ביטוח רכב&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://b.yad2.co.il/">ביטוח רכב</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,4,&quot;ערוצים,בית ועיצוב&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://home.walla.co.il">בית ועיצוב</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,4,&quot;ערוצים,בעלי מקצוע&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://www.b144.co.il/">בעלי מקצוע</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,4,&quot;ערוצים,בר מצווה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://mazaltov.walla.co.il/?CategoryID=3">בר מצווה</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,4,&quot;ערוצים,בריאות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://health.walla.co.il">בריאות</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,4,&quot;ערוצים,ברנז'ה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://b.walla.co.il">ברנז'ה</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ג</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,10,&quot;ערוצים,גבר&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://man.walla.co.il">גבר</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ד</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,11,&quot;ערוצים,דואר אלקטרוני&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://friends.walla.co.il/?w=/@login&theme=&ReturnURL=http://newmail.walla.co.il/ts.cgi">דואר אלקטרוני</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,11,&quot;ערוצים,דיל&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://www.wallashops.co.il/GroupDeal">דיל</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ה</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,13,&quot;ערוצים,השוואת מחירים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://www.kama.co.il/">השוואת מחירים</a></div>
+				</div>
+			</div>
+		</div><div class="col_w1 right zoom1">
+		<div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ו</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,14,&quot;ערוצים,ויוה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://viva.walla.co.il">ויוה</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ח</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,15,&quot;ערוצים,חדשות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://news.walla.co.il">חדשות</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,15,&quot;ערוצים,חוגים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://hugim.walla.co.il">חוגים</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,15,&quot;ערוצים,חיפוש באינטרנט&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://search.walla.co.il">חיפוש באינטרנט</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,15,&quot;ערוצים,חיפוש עבודה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://www.jobcity.co.il/">חיפוש עבודה</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,15,&quot;ערוצים,חתונות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://mazaltov.walla.co.il/?CategoryID=2">חתונות</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ט</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,20,&quot;ערוצים,טלוויזיה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://tv.walla.co.il">טלוויזיה</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">י</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,21,&quot;ערוצים,יד 2&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://www.yad2.co.il/">יד 2</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,21,&quot;ערוצים,ילדים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://kids.walla.co.il/">ילדים</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">כ</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,23,&quot;ערוצים,כרטיסים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://tickets.wallashops.co.il/">כרטיסים</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ל</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,24,&quot;ערוצים,לימודים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://yoram.walla.co.il">לימודים</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">מ</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,25,&quot;ערוצים,מדריך אתרים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://netex.walla.co.il">מדריך אתרים</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,25,&quot;ערוצים,מוגובי&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://mogobe.walla.co.il/?utm_source=walla&utm_medium=image&utm_content=leisure&utm_campaign=whatis&cId=10">מוגובי</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,25,&quot;ערוצים,מוזיקה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://music.walla.co.il">מוזיקה</a></div>
+				</div>
+			</div>
+		</div><div class="col_w2 right zoom1">
+		<div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,28,&quot;ערוצים,מזג אוויר&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://weather.walla.co.il">מזג אוויר</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,28,&quot;ערוצים,מילון&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://milon.walla.co.il">מילון</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,28,&quot;ערוצים,מפות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://maps.walla.co.il">מפות</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,28,&quot;ערוצים,משחקים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://fun.walla.co.il/">משחקים</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">נ</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,32,&quot;ערוצים,ניקלודיאון&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://nick.walla.co.il/">ניקלודיאון</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,32,&quot;ערוצים,ניקלודיאון ג'וניור&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://nickjr.walla.co.il/">ניקלודיאון ג'וניור</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ס</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,34,&quot;ערוצים,סינגלס&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://singles.walla.co.il">סינגלס</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,34,&quot;ערוצים,סלבס&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://celebs.walla.co.il">סלבס</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,34,&quot;ערוצים,סלולר&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://mobile.walla.co.il">סלולר</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,34,&quot;ערוצים,ספורט&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://sports.walla.co.il">ספורט</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,34,&quot;ערוצים,סרטים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://movies.walla.co.il">סרטים</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ע</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,39,&quot;ערוצים,עסקים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://finance.walla.co.il">עסקים</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">פ</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,40,&quot;ערוצים,פורומים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://forums.walla.co.il">פורומים</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">צ</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,41,&quot;ערוצים,צ'אט&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://chat.walla.co.il">צ'אט</a></div>
+				</div>
+			</div>
+		</div><div class="col_w3 right zoom1">
+		<div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,42,&quot;ערוצים,צימרים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://www.b144.co.il/%D7%A6%D7%99%D7%9E%D7%A8%D7%99%D7%9D/">צימרים</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,42,&quot;ערוצים,צפייה ישירה&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://video.walla.co.il">צפייה ישירה</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ק</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,44,&quot;ערוצים,קבצים גדולים&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://bigmail.walla.co.il/">קבצים גדולים</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,44,&quot;ערוצים,קופיקו&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://kofiko.walla.co.il">קופיקו</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,44,&quot;ערוצים,קניות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://www.wallashops.co.il/ws/main.aspx">קניות</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ר</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,47,&quot;ערוצים,רכב&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://cars.walla.co.il">רכב</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">ת</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,48,&quot;ערוצים,תגיות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://tags.walla.co.il">תגיות</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,48,&quot;ערוצים,תיירות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://travel.walla.co.il/">תיירות</a></div><div class="chan_spacing" style=""></div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,48,&quot;ערוצים,תרבות&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://e.walla.co.il">תרבות</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">T</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,51,&quot;ערוצים,TECH&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://tech.walla.co.il">TECH</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">V</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,52,&quot;ערוצים,VOD&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://video.walla.co.il/">VOD</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">Y</div><div id="" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,53,&quot;ערוצים,YES&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://yes.walla.co.il">YES</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div><div class="letter_cont relative zoom1">
+				<div class="chans_cont">
+				<div class="absolute letter_label w3b">Z</div><div id="lastChan" class="w3 chan_div"><a class="w3 chan" style="" onclick="Evt(this,54,&quot;ערוצים,ZONE&quot;,3,&quot;ChannelsBar&quot;,6);" href="http://zone.walla.co.il">ZONE</a></div>
+				</div>
+			</div><div class="chan_spacing" style=""></div>
+		</div>
+					<span class="wcflow"></span>
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+<script type="text/javascript">
+	var wasFilled=0;
+	function channelsFixOffsetAndLayout(){
+		if(!wasFilled){
+			var offsetFix,chans_folder_container,lastChan;
+			
+			chans_folder_container=document.getElementById("chans_folder_container");
+			lastChan=document.getElementById("lastChan");			
+			lastChan.style.height=chans_folder_container.clientHeight+lastChan.offsetParent.clientHeight-lastChan.offsetParent.offsetTop+"px";
+			
+			offsetFix=document.getElementById("top_toolbar").parentNode.offsetLeft+3;
+			if(chans_folder_container.parentNode.offsetWidth-chans_folder_container.parentNode.offsetParent.offsetWidth>chans_folder_container.parentNode.offsetParent.offsetLeft-offsetFix){
+				if(!document.all)offsetFix=document.getElementById("top_toolbar").offsetLeft+3;
+				chans_folder_container.parentNode.style.left=(offsetFix-chans_folder_container.parentNode.offsetParent.offsetLeft)+"px";
+			}
+			
+			wasFilled=1;
+		}
+	}
+</script><li class="greenLine left"><div style="padding:0px 0px 0px 0px;">
+					<script type="text/javascript"> window.Fusion.space("text_line"); </script> 
+					</div></li>
+					<span class="wcflow"></span>
+				</ul>
+			</div>
+		<div class="btm_sep ver_bg">
+				    <div class="exeption">
+					<img class="btm_sep_r" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/shade_right.gif?1" alt="" />
+					<img class="btm_sep_l" src="http://isc.wcdn.co.il/w9/v/movies/toolbar/2012/shade_left.gif?1" alt="" />
+					</div>
+				</div>
+		</div><style>
+#site_wrapper { background-image:url('http://isc.wcdn.co.il/w9/v/movies/rio/die2.jpg?3'); background-repeat:no-repeat; background-position:top center; min-height:940px; height:auto !important; height:940px; }
+.body_css { background-color:white; background-image:url('http://isc.wcdn.co.il/w9/v/movies/rio/hobit_bg_strip.jpg?1'); background-position:center top; background-repeat:repeat-y;  }
+</style>
+
+
+<script>
+document.getElementById("topTick_sep").style.height = "190px";
+var b = document.getElementsByTagName('body')[0]; 
+b.className = 'body_css';
+</script>
+
+
+
+<div style="width:942px; position:relative;">
+	<div style="position:absolute; top:-277px; left:0px; z-index:999;"><a href="http://events.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=AGoodDayToDieHard_tapet&page_location=5&geo=IL&un=&url=https://www.facebook.com/seretseret/app_442474835796871" target="_blank" onFocus="this.blur()"><img src=http://isc.wcdn.co.il/spc.gif width="942" height="180" /></a></div>
+	<div style="position:absolute; width:350px; top:-277px; left:-350px; z-index:999;"><a href="http://events.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=AGoodDayToDieHard_tapet&page_location=5&geo=IL&un=&url=https://www.facebook.com/seretseret/app_442474835796871" target="_blank" onFocus="this.blur()"><img src=http://isc.wcdn.co.il/spc.gif width="350" height="1000" /></a></div>
+	<div style="position:absolute; width:350px; top:-277px; right:-350px; z-index:999"><a href="http://events.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=AGoodDayToDieHard_tapet&page_location=5&geo=IL&un=&url=https://www.facebook.com/seretseret/app_442474835796871" target="_blank" onFocus="this.blur()"><img src=http://isc.wcdn.co.il/spc.gif width="350" height="1000" /></a></div>
+</div>
+
+<script src="/func.js" language="JavaScript"></script>
+
+
+
+
+
+
+
+<div class="top-tool-nav">
+<ul>
+<li class="tab right"><table class="wtable" cellpadding="0" cellspacing="0"><tr><td width="2"></td><td class="selected_l"></td><td class="selected_bg"><div class="selected"><a href="/" onclick="Evt(this,0,'',0,'toolbar_index',16);">ראשי</a></div></td><td class="selected_r"></td><td width="2"></td></tr></table></li><li class="tab right"><a href="/?w=/@displays" onclick="Evt(this,0,'',0,'toolbar_displays',16);">עכשיו בקולנוע</a></li><li class="sep right" id="nsep_1">|</li><li class="tab right"><a href="/?w=/@soon" onclick="Evt(this,0,'',0,'toolbar_soon',16);">בקרוב</a></li><li class="sep right" id="nsep_2">|</li><li class="tab right"><a href="/?w=/4515" onclick="Evt(this,0,'',0,'toolbar_trailer',16);">טריילרים</a></li><li class="sep right" id="nsep_3">|</li><li class="tab right"><a href="/?w=/227" onclick="Evt(this,0,'',0,'toolbar_review',16);">ביקורות</a></li><li class="sep right" id="nsep_4">|</li><li class="tab right"><a href="/?w=/@people" onclick="Evt(this,0,'',0,'toolbar_people',16);">לכל הכוכבים</a></li><li class="sep right" id="nsep_5">|</li><li class="tab right"><a href="/?w=/@area" onclick="Evt(this,0,'',0,'toolbar_cinema',16);">בתי קולנוע</a></li><li class="sep right" id="nsep_6">|</li><li class="tab right"><a href="/?w=/@archive" onclick="Evt(this,0,'',0,'toolbar_archive',16);">לכל הסרטים</a></li><li class="sep right" id="nsep_7">|</li><li class="tab right"><a href="/?w=/@dvd" onclick="Evt(this,0,'',0,'toolbar_dvd',16);">DVD</a></li><li class="sep right" id="nsep_8">|</li><li class="tab right"><a href="/?w=/@yesplanet" onclick="Evt(this,0,'',0,'toolbar_yesplanet',16);">yes planet</a></li><li class="sep right" id="nsep_9">|</li><li class="tab right"><a href="http://fun.walla.co.il/?w=/2321" onclick="Evt(this,0,'',0,'toolbar_game',16);">משחקי סרטים</a></li>
+
+<li class="right" style="width:15px;">&nbsp;</li>
+
+</ul>
+</div>
+
+
+
+<table class="site_content" cellpadding="0" cellspacing="0" style="z-index: 2; position: relative;">
+<tr><td>
+
+<input id="prvText_0" type="hidden" value="חפש: סרט, ז&#8216;אנר, אזור, שחקנים, במאים..." />
+<input id="typex_0" type="hidden" value="0" />
+
+<div align="center" class="autocomplete">
+		<div style="padding-top:10px;">
+			<div class="input_bg">
+				<table height="39" cellpadding="0" cellspacing="0" class="wtable">
+					<tr>
+						<td nowrap width="40" class="hand" onclick="submit_autocomplete(); ">
+						</td>
+						<td width="10"></td>
+						<td>
+							<input value="חפש: סרט, ז&#8216;אנר, אזור, שחקנים, במאים..." onblur="if(this.value == ''){this.value = 'חפש: סרט, ז&#8216;אנר, אזור, שחקנים, במאים...'; this.style.color = '#c9c9c9'}" type="text" id="movies_autocomplete0" onclick="TopShowPopup('autocomplete_results0',event);" autocomplete="off"  onfocus="autocomple_type=0; suggest_autocomplete(event, 0); if(this.value == 'חפש: סרט, ז&#8216;אנר, אזור, שחקנים, במאים...'){this.value=''; this.style.color = '#000';}" onkeyup="suggest_autocomplete(event, 0);" style="outline: 0px; color: #c9c9c9;">
+						</td>
+				   </tr>
+				</table>
+			</div>
+		<div align="right" class="relative" style="width:476px; ;z-index:55;">
+		<div id="autocomplete_results0" class="absolute autocomplete_results"></div>
+	</div>
+		</div>
+	</div>
+
+</td></tr>
+</table>
+
+<div class="wp-top-h-sep"></div>
+<table class="site_content content_panel" cellpadding="0" cellspacing="0" style="z-index: 1; position: relative;">
+<tr>
+<td width="300" valign="top" nowrap>
+		<div class="wp-1-b" style="padding:px 0px px 0px;">
+			<script type="text/javascript"> window.Fusion.space("old_cube"); </script> 
+		 </div><div class="wp-1-b">
+
+
+<table width="300" height="99" cellpadding="0" cellspacing="0" class="wtable hand" background="http://isc.wcdn.co.il/w9/v/movies/2012/tickets.gif">
+<tr>
+<td width="150" onclick="window.open('http://events.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=left_yesplanet_tickets&page_location=6&geo=IL&un=&url=http://www.yesplanet.co.il/')"></td>
+<td width="150" onclick="window.open('http://events.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=left_RavChen_tickets&page_location=6&geo=IL&un=&url=http://www.rav-hen.co.il/')"></td>
+</tr>
+</table>
+
+
+</div>
+<div class="fb_box_wrap">
+<div class="wp-1-b">
+<div class="facebook_box" id="facebook_like_box">
+	<div style="border-bottom:#cccccc 3px solid;"></div>
+</div>
+	<script>
+		document.getElementById("facebook_like_box").innerHTML = '<iframe id="fb_like_box" src="http://www.facebook.com/plugins/likebox.php?id=119779251400166&amp;connections=10&amp;stream=false&amp;header=false&amp;locale=he_IL&amp;border_color=white&amp;height=258&amp;width=300" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:258px;" allowTransparency="true"></iframe>';
+		</script>
+
+	<div class="more">
+	<a class="w2b" href="http://events.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=fanbox_more_walla&page_location=6&geo=IL&un=yshef&url=http://facebook.walla.co.il">
+		<img class="moreIcon" src="http://isc.wcdn.co.il/w9/v/movies/i-more.gif"/>עוד ערוצים של וואלה! בפייסבוק</a>
+	</div>
+
+</div>
+</div><div class="wp-1-b">
+	<a href="http://events.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=kidumVOD&page_location=5&geo=IL&un=&url=http://video.walla.co.il/?w=/2224">
+		<img src="http://isc.wcdn.co.il/w9/v/movies/2012/walla_vod_300_82.gif?2" width="300">
+	</a>
+</div>
+<div class="wp-1-b">
+<div class="gift_container">
+		<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*first" style="position: absolute; right: -3px; top: -6px;">
+			<img src="http://isc.wcdn.co.il/w9/v/movies/archive/free-tickets-strip.gif" alt="" />
+		</a>
+		<div class="gift_main">
+			<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*first" class="gift_url zoom1">
+				<img src="http://msc.wcdn.co.il/w/4-150/1438872-18.jpg" class="gift_img right" width="150" height="113" />
+				<div class="gift_text">
+					<span class="gift_text2">
+						<span class="gift_title w3b">הפעם הראשונה</span>
+						<span class="gift_cont w3">וואלה! מסדרת לכם דייט מהסרטים</span>
+					</span>
+					<span class="gift_img2"></span>
+				</div>
+				<span class="wcflow"></span>
+			</a>
+			
+		</div>
+	</div>
+</div>
+
+<div class="wp-1-b">
+<div class="gift_container">
+		<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*heaven" style="position: absolute; right: -3px; top: -6px;">
+			<img src="http://isc.wcdn.co.il/w9/v/movies/archive/free-tickets-strip.gif" alt="" />
+		</a>
+		<div class="gift_main">
+			<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*heaven" class="gift_url zoom1">
+				<img src="http://msc.wcdn.co.il/w/4-150/1432015-18.jpg" class="gift_img right" width="150" height="113" />
+				<div class="gift_text">
+					<span class="gift_text2">
+						<span class="gift_title w3b">מקום מבטחים</span>
+						<span class="gift_cont w3">בואו לסרט  - הכרטיסים עלינו!</span>
+					</span>
+					<span class="gift_img2"></span>
+				</div>
+				<span class="wcflow"></span>
+			</a>
+			
+		</div>
+	</div>
+</div>
+
+<div class="wp-1-b">
+<div class="gift_container">
+		<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*thisis40" style="position: absolute; right: -3px; top: -6px;">
+			<img src="http://isc.wcdn.co.il/w9/v/movies/archive/free-tickets-strip.gif" alt="" />
+		</a>
+		<div class="gift_main">
+			<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*thisis40" class="gift_url zoom1">
+				<img src="http://msc.wcdn.co.il/w/4-150/1424439-18.jpg" class="gift_img right" width="150" height="113" />
+				<div class="gift_text">
+					<span class="gift_text2">
+						<span class="gift_title w3b">הכל יחסים</span>
+						<span class="gift_cont w3">הקרנת טרום בכורה לגולשי וואלה!</span>
+					</span>
+					<span class="gift_img2"></span>
+				</div>
+				<span class="wcflow"></span>
+			</a>
+			
+		</div>
+	</div>
+</div>
+
+<div class="wp-1-b">
+<div class="gift_container">
+		<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*die" style="position: absolute; right: -3px; top: -6px;">
+			<img src="http://isc.wcdn.co.il/w9/v/movies/archive/free-tickets-strip.gif" alt="" />
+		</a>
+		<div class="gift_main">
+			<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*die" class="gift_url zoom1">
+				<img src="http://msc.wcdn.co.il/w/4-150/1432119-18.jpg" class="gift_img right" width="150" height="113" />
+				<div class="gift_text">
+					<span class="gift_text2">
+						<span class="gift_title w3b">מת לחיות ביום טוב</span>
+						<span class="gift_cont w3">כרטיסים זוגיים במתנה!</span>
+					</span>
+					<span class="gift_img2"></span>
+				</div>
+				<span class="wcflow"></span>
+			</a>
+			
+		</div>
+	</div>
+</div>
+
+
+
+<style>
+			.radio_chk{float:right;margin-left:6px;}
+			.radio_txt{float:right}
+			.poll_fcb{margin-top:5px;}
+			.poll_submit{padding-top:4px;padding-right:5px;}
+			.high_spc{margin-top:6px;}
+		</style><div class="rst wp-1-b">
+			<div class="hd0">סקר מהיר</div><div class="w4b poll_q high_spc"><a style="color:black;" href="/?w=/3200/16791/@@/poll">מהו התפקיד המזוהה ביותר עם ברוס וויליס?</a></div>
+			
+			<br/>			
+			<form action="http://poll.walla.co.il/ts.cgi" method="post" name="pollForm">
+				<input type=hidden name="tsscript" value="vote">
+				<input type=hidden name="id" value="16791">
+				<input type=hidden name="ReturnURL" value="http://movies.walla.co.il/?w=//16791/@@/poll.results">
+			<div style="text-align:right;height:27px;clear:both;">
+								<div class="radio_chk"><input type=radio id=wPollOpt0 name="vote" value=1 onclick="javascript:pollSubmit(false);"></div>
+								<div class="w3 radio_txt"><label for="wPollOpt0" onclick="javascript:pollSubmit(false);">ג'ון מקליין מ"מת לחיות"</label></div>
+								<div style="float:none;clear:both;line-height:0px;overflow:hidden;"></div>
+								<input type="hidden" id="wPollAns0" value="ג'ון מקליין מ\"מת לחיות\"" />
+							</div><div style="text-align:right;height:27px;clear:both;">
+								<div class="radio_chk"><input type=radio id=wPollOpt1 name="vote" value=2 onclick="javascript:pollSubmit(false);"></div>
+								<div class="w3 radio_txt"><label for="wPollOpt1" onclick="javascript:pollSubmit(false);">קורבין דאלאס" מ"האלמנט החמישי"</label></div>
+								<div style="float:none;clear:both;line-height:0px;overflow:hidden;"></div>
+								<input type="hidden" id="wPollAns1" value="קורבין דאלאס\" מ\"האלמנט החמישי\"" />
+							</div><div style="text-align:right;height:27px;clear:both;">
+								<div class="radio_chk"><input type=radio id=wPollOpt2 name="vote" value=3 onclick="javascript:pollSubmit(false);"></div>
+								<div class="w3 radio_txt"><label for="wPollOpt2" onclick="javascript:pollSubmit(false);">בוצ' מ"ספרות זולה"</label></div>
+								<div style="float:none;clear:both;line-height:0px;overflow:hidden;"></div>
+								<input type="hidden" id="wPollAns2" value="בוצ' מ\"ספרות זולה\"" />
+							</div><div style="text-align:right;height:27px;clear:both;">
+								<div class="radio_chk"><input type=radio id=wPollOpt3 name="vote" value=4 onclick="javascript:pollSubmit(false);"></div>
+								<div class="w3 radio_txt"><label for="wPollOpt3" onclick="javascript:pollSubmit(false);">האדסון הוק מ"האדסון הוק"</label></div>
+								<div style="float:none;clear:both;line-height:0px;overflow:hidden;"></div>
+								<input type="hidden" id="wPollAns3" value="האדסון הוק מ\"האדסון הוק\"" />
+							</div><div style="text-align:right;height:27px;clear:both;">
+								<div class="radio_chk"><input type=radio id=wPollOpt4 name="vote" value=5 onclick="javascript:pollSubmit(false);"></div>
+								<div class="w3 radio_txt"><label for="wPollOpt4" onclick="javascript:pollSubmit(false);">ד"ר קרואו מ"החוש השישי"</label></div>
+								<div style="float:none;clear:both;line-height:0px;overflow:hidden;"></div>
+								<input type="hidden" id="wPollAns4" value="ד\"ר קרואו מ\"החוש השישי\"" />
+							</div><div style="text-align:right;height:27px;clear:both;">
+								<div class="radio_chk"><input type=radio id=wPollOpt5 name="vote" value=6 onclick="javascript:pollSubmit(false);"></div>
+								<div class="w3 radio_txt"><label for="wPollOpt5" onclick="javascript:pollSubmit(false);">המפקח שארפ "ממלכת אור הירח"</label></div>
+								<div style="float:none;clear:both;line-height:0px;overflow:hidden;"></div>
+								<input type="hidden" id="wPollAns5" value="המפקח שארפ \"ממלכת אור הירח\"" />
+							</div>
+			
+			<div class="poll_btn"><input type="button" class=w2 style="padding:0 6px;" onclick="document.pollForm.submit();" value="הצבע"></div>		
+			</form>
+		</div>
+		<div id="fbFrameContainer"></div>		
+<style type="text/css">
+#leftYoram .wrapperBox { border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC; }
+#leftYoram .yoramItem { width: 82px; height: 112px; }
+#leftYoram .yoramItemsPic { width: 8-px; height: 60px; margin-top: 8px; border: 1px solid #cccccc; }
+#leftYoram .yoramItemsText { height: 40px; margin-top: 2px; }
+#leftYoram .yoramItemsLink { width: 82px; height: 30px; overflow: hidden; }
+#leftYoram .itemMargin { margin-right: 9px; }
+#leftYoram .bottomLinks{height:22px;height=28px;padding:6px 10px 0 0;background-image: url("http://isc.wcdn.co.il/w9/v/wallashops/ss-backf.gif"); background-repeat: repeat-x;border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC; }
+#leftYoram .bottomLinks a { color: #333333; }
+#leftYoram .bottomLinks a:link { color: #333333; }
+#leftYoram .bottomItem { vertical-align:top; line-height:15px; font-size:12px; color:#333333; }
+#leftYoram .itmesSp{vertical-align:top;background-color:#CCCCCC;width:1px;height:11px;margin:3px 10px 0;overflow:hidden;}
+#leftYoram .logoImg { width: 55px; height: 17px; }
+#leftYoram .differentItemMargin { margin-right: 17px; }
+</style>
+
+<!--[if IE 6]>
+<style>
+#leftYoram .itemMargin{ margin-right: 4px; }
+</style>
+<![EndIf]-->
+
+<div class="wp-1-b" id="leftYoram">
+	<div class="hd0" style="border-bottom: 4px solid #CCCCCC;">
+		<div class="right"><a href="http://yoram.walla.co.il/" onclick="Evt(this,0,'yoramLeftHead',6,'yoramLeft',1);"><strong>לימודים</strong></a></div>
+		<div class="left"><a href="http://yoram.walla.co.il/" onclick="Evt(this,0,'yoramLeftlogo',6,'yoramLeft',1);"><img src="http://isc.wcdn.co.il/w/p/yoram2006.gif" alt="לימודים" title="לימודים" class="logoImg" /></a></div>
+		<span class="wcflow"></span>
+	</div>
+	<div class="wrapperBox zoom1">
+		<div class="right yoramItem itemMargin">
+			<div><a href="http://yoram.walla.co.il/ts.cgi?tsscript=web/OneOnOne" onclick="Evt(this,0,'yoramLeftContent',6,'yoramLeft',1);"><img src="http://msc.wcdn.co.il/archive/817243-19.jpg" alt="לא צריך להחליט לבד - תתייעץ" title="לא צריך להחליט לבד - תתייעץ" class="yoramItemsPic" /></a></div>
+			<div class="yoramItemsText yoramItemsLink w2b"><a href="http://yoram.walla.co.il/ts.cgi?tsscript=web/OneOnOne" class="yoramItemsLink" onclick="Evt(this,0,'yoramLeftContent',6,'yoramLeft',1);">לא צריך להחליט לבד - תתייעץ</a></div>
+			<span class="wcflow"></span>
+		</div>
+		<div class="right yoramItem differentItemMargin">
+			<div><a href="http://yoram.walla.co.il/" onclick="Evt(this,1,'yoramLeftContent',6,'yoramLeft',1);"><img src="http://msc.wcdn.co.il/archive/1037108-19.jpg" alt="מחפש לימודי משחק?" title="מחפש לימודי משחק?" class="yoramItemsPic" /></a></div>
+			<div class="yoramItemsText yoramItemsLink w2b"><a href="http://yoram.walla.co.il/" class="yoramItemsLink" onclick="Evt(this,1,'yoramLeftContent',6,'yoramLeft',1);">מחפש לימודי משחק?</a></div>
+			<span class="wcflow"></span>		
+		</div>
+		<div class="right yoramItem differentItemMargin">
+			<div><a href="http://yoram.walla.co.il/ts.cgi?tsscript=web/focus" onclick="Evt(this,2,'yoramLeftContent',6,'yoramLeft',1);"><img src="http://msc.wcdn.co.il/archive/726595-19.jpg" alt="כמה תקבלו בפסיכומטרי?" title="כמה תקבלו בפסיכומטרי?" class="yoramItemsPic" /></a></div>
+			<div class="yoramItemsText yoramItemsLink w2b"><a href="http://yoram.walla.co.il/ts.cgi?tsscript=web/focus" class="yoramItemsLink" onclick="Evt(this,2,'yoramLeftContent',6,'yoramLeft',1);">כמה תקבלו בפסיכומטרי?</a></div>
+			<span class="wcflow"></span>		
+		</div>	
+		<span class="wcflow"></span>		
+	</div>
+	<div class="bottomLinks w2">
+		<div>
+		<a onclick="Evt(this,1,&quot;yoramLeftLinks&quot;,6,&quot;yoramLeft&quot;,1);" class="in_blk bottomItem" href="http://yoram.walla.co.il/ts.cgi?tsscript=mil/index">מלגות</a><span class="in_blk itmesSp"></span><a onclick="Evt(this,1,&quot;yoramLeftLinks&quot;,6,&quot;yoramLeft&quot;,1);" class="in_blk bottomItem" href="http://yoram.walla.co.il/ts.cgi?tsscript=st/index">סטודנטים</a><span class="in_blk itmesSp"></span><a onclick="Evt(this,1,&quot;yoramLeftLinks&quot;,6,&quot;yoramLeft&quot;,1);" class="in_blk bottomItem" href="http://coursim.walla.co.il/">קורסים</a><span class="in_blk itmesSp"></span><a onclick="Evt(this,1,&quot;yoramLeftLinks&quot;,6,&quot;yoramLeft&quot;,1);" class="in_blk bottomItem" href="http://yoram.walla.co.il">לימודים</a><span class="in_blk itmesSp"></span><a onclick="Evt(this,1,&quot;yoramLeftLinks&quot;,6,&quot;yoramLeft&quot;,1);" class="in_blk bottomItem" href="http://hugim.walla.co.il/">חוגים</a>		
+		<span class="wcflow"></span>
+		</div>
+	</div>
+</div>
+	
+
+
+<style>
+.BlackColor{color:#000000!important;text-decoration:none!importatnt;}
+.xshopsMoreBtn{bottom:30px;left:34px;left:"31px"}
+.shopsCenterBigTextDiv{padding-top:15px;}
+.shopsBigItemTitle{margin-top:2px;}
+.shopsDiv{width:300px; margin-bottom:5px;margin-top:5px;}
+.shopsBox{border-top:4px solid #CCCCCC;border-right:1px solid #CCCCCC;border-left:1px solid #CCCCCC;width:298px;width:"300px";}
+.shopstab{width:58px;height:33px;height:"33px";cursor:pointer;color:#000088;overflow:hidden;padding-top:2px;}
+.lastTab{float:right;width:62px;width:"66px";height:33px;height:"33px";cursor:pointer;color:#000088;overflow:hidden;padding-top:2px;}
+.b-l{border-left:1px solid #E5E5E5;}
+.containTabsContent{padding:5px 5px 0 5px;border-top:0px solid #E5E5E5;}
+.shopsSelectedTab{background-image:url(http://isc.wcdn.co.il/w9/v/wallashops/ss-back.gif);color:#000000!important;}
+.shopsBigImg{width:150px; height:150px; margin:0 7px 0 7px;}
+.shopsSmallImg{width:40px;height:40px;margin-left:5px;}
+.shopsBigImgDiv{width:155px;padding:auto;margin:0 7px 0 5px;}
+.shopsBigTextDiv{padding-right:10px;padding-right:"0";height:119px;}
+.redTitle{color:#D70D0D !important;}
+.shopsBigItem{padding-bottom:5px;height:160px;}
+.shopsSmallItem{border-top:1px solid #CCCCCC; height:45px;padding-top:5px;padding-bottom:"5px";}
+.shopsMore{background-image:url(http://isc.wcdn.co.il/w9/v/wallashops/ss-backf.gif);height:25px;height:"28px";border:1px solid #CCCCCC;padding-top:2px;}
+.shopsMoreImgDiv{float:right;padding:3px 5px 0 0;line-height:1px; font-size:1px;margin-left:5px;}
+.shopsMoreLink{padding-top:3px;padding-top:"0px";}
+.ShopsBanner{background-color:#cfcfcf;width:300px;}
+a.black{color:#000000;}
+
+.nound: {text-decoration: none!important;}
+.nound:hover {text-decoration: none!important;}
+
+.pnt {cursor: pointer;}
+.pnt:hover {text-decoration: none;}
+</style>
+
+<script>
+function noUnderline(ob){
+	ob.style.textDecoration="none";
+}
+</script>
+
+<div class="shopsDiv wp-1-b">
+	<div  style="height:25px">
+		<div class="right"><a href="http://www.wallashops.co.il" target="_blank" class="black w6b">קניות</a></div>
+		<div class="left" style="margin-top:2px"><a href="http://www.wallashops.co.il" target="_blank"><img title="וואלה! שופס" alt="וואלה! שופס" src="http://isc.wcdn.co.il/w9/v/wallashops/ss-shops.gif"></a></div>
+		<span class="wcflow"></span>
+	</div>
+	<div class="shopsBox">
+
+		<div class="containTabsContent">
+	<div id="ContentTab0"  style="display:block;">
+
+	<div class="shopsBigItem w3">
+		<a onclick="Evt(this,1,0,5,'flood_item_shops_box',1);" href="http://www.wallashops.co.il/a/ap.aspx?pi=ZF6214995" target="_blank" class="block relative pnt" style="z-index: 1; height: 155px;">
+			<img title="מבצע סבתא מהדורת אספנים" alt="מבצע סבתא מהדורת אספנים" src="http://ypk.cs4u.co.il/pi/auction_product/ZF6214995.jpg" class="shopsBigImg right">
+			<div class="shopsBigTextDiv">
+				<div class="shopsCenterBigTextDiv">
+					
+					<div class="shopsBigItemTitle">
+						<span class="w3b">
+							מבצע סבתא מהדורת אספנים
+						</span>
+					</div>
+					<div style="padding-top:2px;">
+						<span class="w3 BlackColor nound">
+							מחיר קבוצתי: 39 ₪
+						</span>
+					</div>
+					<div style="padding-top:2px;">
+						<span onmouseover="noUnderline(this);" class="w3 BlackColor nound">
+							משלוח: 10 ₪
+						</span>
+					</div>
+				</div>
+			</div>
+			<img title="מבצע סבתא מהדורת אספנים" alt="מבצע סבתא מהדורת אספנים" src="http://isc.wcdn.co.il/w9/v/wallashops/ss-btn-off.gif" onmouseover="this.src='http://isc.wcdn.co.il/w9/v/wallashops/ss-btn-on.gif'" onmouseout="this.src='http://isc.wcdn.co.il/w9/v/wallashops/ss-btn-off.gif'" />
+
+			<span class="wcflow"></span>
+		</a>
+	</div>
+
+	<div class="shopsSmallItem w2">
+		<a target="_blank" onclick="Evt(this,2,0,5,'flood_item_shops_box',1);"  href="http://www.wallashops.co.il/a/ap.aspx?pi=ZFlife" class="block pnt">
+			<img src="http://ypk.cs4u.co.il/pi/auction_rec_product/ZFlife.jpg" title="Life -החיים של החיות בעולם!" alt="Life -החיים של החיות בעולם!" class="shopsSmallImg right">
+			<div>
+				<div style="padding-top:1px;height:15px; overflow:hidden;">
+					<span class="w3b">
+						Life -החיים של החיות בעולם!
+					</span>
+				</div>
+				<div style="padding-top:3px;height:18px;height=20px;overflow:hidden;">
+					<span class="w2 BlackColor">
+						מחיר קבוצתי: 179 ₪
+					</span>
+				</div>
+			</div>
+			<span class="wcflow"></span>
+		</a>
+	</div>
+
+	<div class="shopsSmallItem w2">
+		<a target="_blank" onclick="Evt(this,3,0,5,'flood_item_shops_box',1);"  href="http://www.wallashops.co.il/a/ap.aspx?pi=zf21459" class="block pnt">
+			<img src="http://ypk.cs4u.co.il/pi/auction_rec_product/zf21459.jpg" title="ואלס עם באשיר " alt="ואלס עם באשיר " class="shopsSmallImg right">
+			<div>
+				<div style="padding-top:1px;height:15px; overflow:hidden;">
+					<span class="w3b">
+						ואלס עם באשיר 
+					</span>
+				</div>
+				<div style="padding-top:3px;height:18px;height=20px;overflow:hidden;">
+					<span class="w2 BlackColor">
+						מחיר קבוצתי: 99 ₪
+					</span>
+				</div>
+			</div>
+			<span class="wcflow"></span>
+		</a>
+	</div>
+
+	<div class="shopsSmallItem w2">
+		<a target="_blank" onclick="Evt(this,4,0,5,'flood_item_shops_box',1);"  href="http://www.wallashops.co.il/a/ap.aspx?pi=ZF22552_1" class="block pnt">
+			<img src="http://ypk.cs4u.co.il/pi/auction_rec_product/ZF22552_1.jpg" title="הדוד חיים 2 cd+dvd" alt="הדוד חיים 2 cd+dvd" class="shopsSmallImg right">
+			<div>
+				<div style="padding-top:1px;height:15px; overflow:hidden;">
+					<span class="w3b">
+						הדוד חיים 2 cd+dvd
+					</span>
+				</div>
+				<div style="padding-top:3px;height:18px;height=20px;overflow:hidden;">
+					<span class="w2 BlackColor">
+						מחיר קבוצתי: 39 ₪
+					</span>
+				</div>
+			</div>
+			<span class="wcflow"></span>
+		</a>
+	</div></div>
+		</div>
+	</div>
+	<div class="shopsMore">
+		<div class="shopsMoreImgDiv w2b">
+			<a href="http://www.wallashops.co.il/groupdeal" target="_blank" onclick="Evt(this,0,&quot;more&quot;,5,&quot;more_item_shops_box&quot;,1);">
+			<img src="http://isc.wcdn.co.il/w9/v/wallashops/ss-moref.gif">
+			</a>
+		</div>
+		<div class="shopsMoreLink">
+			<a class="w2b" style="color:#000000;"  href="http://www.wallashops.co.il/groupdeal" target="_blank" onclick="Evt(this,0,&quot;more&quot;,5,&quot;more_item_shops_box&quot;,1);">הדיל היומי בוואלה! שופס כל יום דילים חדשים!</a>
+		</div>
+	</div>
+	
+	
+</div> </td>
+<td class="wp-spacer" nowrap></td>
+<td class="wp-sep"></td>
+<td class="wp-spacer" nowrap></td>
+<td width="600" valign="top">
+<div class="wp-0-b" style="position: relative; z-index: 1;">
+
+
+<script>
+	function Tween(){
+		this.init.apply(this,arguments);		
+	}
+
+	Tween.version = "0.17";
+	Tween.allTweens = {};
+	Tween.instances = 0;
+	Tween.intTime = 1000/25;
+	Tween.fps = 25;
+	Tween.getScope = function(id){
+		return Tween.allTweens[id];
+	}
+	Tween.proxyInterval = function(id,args){
+		var scope = Tween.getScope(id);
+		scope.processor.apply(scope);
+	}
+	Tween.proxyIntervalDelay = function(id){
+		var scope = Tween.getScope(id);
+		clearInterval(scope.interval);
+		scope.dispatchFinishedStart(1);
+		if (scope.initObj.delay && scope.initObj.onDelay){
+			
+			if (!scope.initObj.scope) scope.initObj.scope = this;
+			if (!scope.initObj.args) scope.initObj.args = [];
+			scope.initObj.onDelay.apply(scope.initObj.scope,scope.initObj.args);
+			scope.startInterval.apply(scope);
+		} else {
+			scope.startInterval.apply(scope);	
+		}
+		
+	}
+	Tween.d2h=function(d){return d.toString(16);} // decimal to hex
+	Tween.h2d=function(h){return parseInt(h,16);} // hex to decimal 
+
+	Tween.easing = {
+		easeInQuint: function(t, b, c, d) {
+			return c*(t/=d)*t*t*t*t + b;
+		},
+		easeOutSine:function(t, b, c, d) {
+			return c * Math.sin(t/d * (Math.PI/2)) + b;
+		},
+		easeIn:function (t, b, c, d) {
+			return c*(t/=d)*t*t*t*t + b;
+		},
+		easeOut:function (t, b, c, d) {
+			return c*((t=t/d-1)*t*t*t*t + 1) + b;
+		},
+		easeInOut:function (t, b, c, d) {
+			if ((t/=d/2) < 1) return c/2*t*t*t*t*t + b;
+			return c/2*((t-=2)*t*t*t*t + 2) + b;
+		},
+		easeOutBounce:function (t,b,c,d) {
+			if ((t/=d) < (1/2.75)) {
+				return c*(7.5625*t*t) + b;
+			} else if (t < (2/2.75)) {
+				return c*(7.5625*(t-=(1.5/2.75))*t + .75) + b;
+			} else if (t < (2.5/2.75)) {
+				return c*(7.5625*(t-=(2.25/2.75))*t + .9375) + b;
+			} else {
+				return c*(7.5625*(t-=(2.625/2.75))*t + .984375) + b;
+			}
+		},
+		easeInBounce:function (t,b,c,d) {
+				return c - com.robertpenner.easing.Bounce.easeOut (d-t, 0, c, d) + b;
+		},
+		easeInOutBounce:function (t,b,c,d) {
+				if (t < d/2) return com.robertpenner.easing.Bounce.easeIn (t*2, 0, c, d) * .5 + b;
+				else return com.robertpenner.easing.Bounce.easeOut (t*2-d, 0, c, d) * .5 + c*.5 + b;
+		},
+		linearEaseIn:function(t, b, c, d){
+			return c*t/d + b;
+		},
+		regularEaseInOut:function(t,b,c,d){
+			if ((t/=d/2) < 1) return c/2*t*t + b;
+			return -c/2 * ((--t)*(t-2) - 1) + b;
+		},
+		xbounceEaseOut: function(t,b,c,d){
+			if ((t/=d) < (1/2.75)) {
+				return c*(7.5625*t*t) + b;
+			} else if (t < (2/2.75)) {
+				return c*(7.5625*(t-=(1.5/2.75))*t + .75) + b;
+			} else if (t < (2.5/2.75)) {
+				return c*(7.5625*(t-=(2.25/2.75))*t + .9375) + b;
+			} else {
+				return c*(7.5625*(t-=(2.625/2.75))*t + .984375) + b;
+			}
+		}
+	}
+	
+	Tween.prototype.init = function(obj){
+		if (this.id) return;
+		this.id = Tween.instances++;
+		this.motion = false;
+		Tween.allTweens[this.id] = this;
+
+		this.initObj = {
+			time:typeof(obj.time)=="undefined"?2:obj.time,
+			onFinish:obj.onFinish,
+			onStart:obj.onStart,
+			onDelay:obj.onDelay,
+			scope:obj.scope,
+			args:obj.args,
+			del:typeof(obj.del)=="undefined"?false:obj.del,
+			delay:typeof(obj.delay)=="undefined"?false:obj.delay,
+			targets:typeof(obj.targets)=="object"?obj.targets:[],
+			autoStart:typeof(obj.autoStart)=="undefined"?true:obj.autoStart,
+			count:typeof(obj.count)=="undefined"?0:obj.count
+		};
+
+		var ts  =this.initObj.targets;
+		for (i=0;i<ts.length;i++){
+			ts[i].prop = {name:ts[i].prop,renderer:this.propRenderer(ts[i].prop)};
+			ts[i].target = typeof(ts[i].target)=="string"?document.getElementById(ts[i].target):ts[i].target;
+			ts[i].easing = ts[i].easing?ts[i].easing:Tween.easing.easeInOut;
+			
+		}
+
+		if (this.initObj.delay){
+			this.interval = setInterval("Tween.proxyIntervalDelay("+this.id+")",this.initObj.delay*1000);
+			if (this.initObj.count>0) this.initObj.count--;
+		} else if (this.initObj.autoStart) {
+			this.dispatchFinishedStart(1);
+			this.startInterval();
+		} 
+	}
+
+	Tween.prototype.startInterval = function(){
+		this.motion = true;		
+		this.timer = 0;
+		this.interval = setInterval("Tween.proxyInterval("+this.id+")",Tween.intTime);
+		
+		this.percent = 0;
+		this.iterator = 1/(this.initObj.time*Tween.fps);
+		this.timeUnit = this.iterator*this.initObj.time;
+		
+	}
+
+	Tween.prototype.processor = function(){
+		if (this.percent>1) {
+			this.stopMotion();
+			this.dispatchFinishedStart(0);
+			if (this.initObj.del){
+				this.deleteTween();
+				return;
+			}
+			this.reset();
+		} else {
+			this.applyEasing();
+			this.dispatchIntervalFunctions();
+		}
+	}
+	
+	Tween.prototype.stop = function(){
+		this.motion = false;
+		clearInterval(this.interval);
+		this.dispatchFinishedStart(0);
+		this.reset();
+	}	
+	
+	Tween.prototype.start = function(){
+		if (!this.motion) {
+			this.startInterval();
+		}
+	}	
+
+	Tween.prototype.stopMotion = function(){
+		this.motion = false;
+		clearInterval(this.interval);
+	}
+
+	Tween.prototype.abort = function(kill){
+		clearInterval(this.interval);
+		this.motion = false;
+		this.initObj.count=0;
+		this.reset();
+		if (kill) {this.deleteTween();}
+	}
+
+	Tween.prototype.deleteTween = function(){
+		delete Tween.allTweens[this.id];
+	}
+
+	Tween.prototype.dispatchFinishedStart = function(startorfinish){
+		var evtStr = startorfinish==0?"onFinish":"onStart";
+		var f = this.initObj[evtStr];
+		if (f){
+			if (!f.scope) f.scope = this;
+			if (!f.args) f.args=[];
+			var trgArr = [];
+			var i;
+			for (i=0;i<this.initObj.targets.length;i++){
+				trgArr.push(this.initObj.targets[i].target);
+			}
+			f.func.apply(f.scope,[trgArr].concat(f.args));	
+		} 
+			
+		if (this.initObj.targets.length>0){
+			var ts = this.initObj.targets;
+			for (i=0;i<ts.length;i++){
+				var f = ts[i][evtStr];
+				if (f){
+					f.func.apply(f.scope,[ts[i].target].concat(f.args));
+				}
+			}				
+		}			
+	}
+
+	Tween.prototype.dispatchIntervalFunctions = function(){
+		if (this.initObj.targets.length>0){
+			var ts = this.initObj.targets;
+			for (i=0;i<ts.length;i++){
+				var f = ts[i]["onEnterFrame"];
+				if (f){
+					f.func.apply(f.scope,[ts[i].target].concat(f.args));
+				}
+			}				
+		}		
+	}
+	
+	Tween.prototype.reset = function() {
+		this.percent = 0;
+		this.timer = 0;
+		if (this.initObj.count>1){
+			this.initObj.count--;
+			this.start();
+			
+		}
+	}
+	
+	Tween.prototype.applyEasing = function(){
+		var io = this.initObj;
+		for (i=0;i<io.targets.length;i++){
+			var val = io.targets[i].easing(this.timer,io.targets[i].start,io.targets[i].end-io.targets[i].start,io.time*Tween.fps);
+			io.targets[i].prop.renderer(io.targets[i].target,io.targets[i].prop.name,val);
+		}
+
+		this.percent+=this.iterator;
+		this.timer+=1;
+		
+	}
+	
+	Tween.prototype.propRenderer = function(prop){
+		if (prop=="undefined") return function(){};
+		switch(prop){
+			case "opacity":
+				return renderer_opacity;
+				break;
+			default:
+				return renderer_position;
+				break;
+		}
+		
+		
+		function renderer_opacity(target,prop,val){
+		
+			if (target.style) {
+				if (target.style.filter){
+					target.style.filter = 'alpha(opacity=' + val*100 + ')';
+					target.style.opacity = val;
+					//target.style.removeAttribute("filter");
+				}else{
+					target.style.opacity = val;
+				}
+			} else {
+				this.stopMotion();
+				this.reset();
+			}
+		}
+		function renderer_position(target,prop,val){
+			if (target.style) {
+				target.style[prop] = Math.round(val)+"px";
+			} else {
+				this.stopMotion();
+				this.reset();
+			}
+		}		
+	}
+	//Settings
+	var speed = 1.5;
+	var startPoint = 0;
+	var endPoint = -915;
+	var viewItems = 5
+	var sumItems = 1;
+	var animation = "xbounceEaseOut"; //
+	
+	
+	if(sumItems % viewItems > 0){extra = 1;}else{extra = 0;}
+	var sumFrames = Math.floor(sumItems/viewItems) + extra;
+	var btnc = 1;
+
+	
+
+	function release(){
+		
+				if(btnc == sumFrames){
+					document.getElementById('left_btn').disabled = "disabled";
+					document.getElementById('left_btn').className='nav_btn_left_d';
+				}else{
+					document.getElementById('left_btn').disabled = false;
+					document.getElementById('left_btn').className='nav_btn_left_a';
+				}
+				
+				if(btnc == 1){
+					document.getElementById('right_btn').disabled = "disabled";
+					document.getElementById('right_btn').className='nav_btn_right_d';
+				}else{
+					document.getElementById('right_btn').disabled = false;
+					document.getElementById('right_btn').className='nav_btn_right_a';
+				}
+	}
+
+	function moveNodeLeft(element){
+		var label=document.getElementById(element);
+		var domObjx=0;
+
+		while (label.childNodes[domObjx].id == undefined){
+			domObjx=domObjx+1;
+		}
+		var temp=label.childNodes[domObjx].innerHTML;
+		var x = label.childNodes[domObjx].id;
+		var xclass = label.childNodes[domObjx].className;
+		label.removeChild(label.childNodes[domObjx]); //remove
+
+		var foo = document.createElement("div");
+		foo.id = x;
+		foo.className = xclass;
+		document.getElementById(element).appendChild(foo);
+		document.getElementById(x).innerHTML = temp;
+
+		document.getElementById(element).style.left="0px";
+	}
+	
+	function moveNodeRight(element, vWidth){
+		var label=document.getElementById(element);
+		var domObjx=label.childNodes.length - 1;
+		
+
+		while (label.childNodes[domObjx].id == undefined){
+
+			domObjx=domObjx-1;
+		}
+		var temp=label.childNodes[domObjx].innerHTML;
+		var x = label.childNodes[domObjx].id;
+		var xclass = label.childNodes[domObjx].className;
+		
+		label.removeChild(label.childNodes[domObjx]); //remove
+
+		var foo = document.createElement("div");
+		foo.id = x;
+		foo.className = xclass;
+		var insertedElement = label.insertBefore(foo, document.getElementById(element).firstChild);
+		document.getElementById(x).innerHTML = temp;
+
+		myObj=document.getElementById(element);
+		
+		myObj.style.left = vWidth + "px";
+	}
+
+
+</script>
+<script>
+	var toolTip=0;
+	var dis2=0;
+	
+	function goLeft_poster(newtoolTip){
+		if ((dis2 == 0) && (toolTip != newtoolTip)){
+			clearTimeout(t);
+			if(newtoolTip >= 4){newtoolTip = 0;}
+			if(newtoolTip < 0){newtoolTip = 3;}
+
+			//Text Enter
+			var b = document.getElementById("tip"+toolTip);
+
+			document.getElementById("tiplink"+toolTip).style.left = "600px";
+			zzz1 = new Tween({targets:[{target:b,start:0,end:80,prop:"top",easing:Tween.easing.regularEaseInOut,onStart:{func:function(t){dis2=1;}},onFinish:{func:function(t){}}}],time:0.6,autoStart:true});
+			zzz3 = new Tween({targets:[{target:b,start:1,end:0,prop:"opacity",easing:Tween.easing.regularEaseInOut,onStart:{func:function(t){}},onFinish:{func:function(t){}}}],time:0.3,autoStart:true});
+
+			document.getElementById("tiplink"+newtoolTip).style.left = "0px";
+			var m = document.getElementById("tip"+newtoolTip);
+
+			zzz2 = new Tween({targets:[{target:m,start:80,end:0,prop:"top",easing:Tween.easing.regularEaseInOut,onStart:{func:function(t){}}}],time:0.3,autoStart:true, delay: 0.4});
+			zzz4 = new Tween({targets:[{target:m,start:0,end:1,prop:"opacity",easing:Tween.easing.regularEaseInOut,onStart:{func:function(t){}},onFinish:{func:function(t){dis2=0;}}}],time:0.4,autoStart:true, delay: 0.4});
+			
+			var d1 = document.getElementById("xq"+newtoolTip);
+			xx1 = new Tween({targets:[{target:d1,start:-600,end:0,prop:"left",easing:Tween.easing.regularEaseInOut,onFinish:{func:function(t){}}}],time:0.6,autoStart:true});
+			var d2 = document.getElementById("xq"+toolTip);
+			xx2 = new Tween({targets:[{target:d2,start:0,end:600,prop:"left",easing:Tween.easing.regularEaseInOut,onFinish:{func:function(t){}}}],time:0.6,autoStart:true});
+			
+			toolTip = newtoolTip;
+			auto = toolTip + 1;
+
+			t=setTimeout("goLeft_poster(auto)",8000);
+		}
+	}
+	
+	
+	
+	function goRight_poster(newtoolTip){
+		if ((dis2 == 0) && (toolTip != newtoolTip)){
+			clearTimeout(t);
+			if(newtoolTip >= 4){newtoolTip = 0;}
+			if(newtoolTip < 0){newtoolTip = 3;}
+
+			//Text Enter
+			var b = document.getElementById("tip"+toolTip);
+
+			document.getElementById("tiplink"+toolTip).style.left = "600px";
+			zzz1 = new Tween({targets:[{target:b,start:0,end:80,prop:"top",easing:Tween.easing.regularEaseInOut,onStart:{func:function(t){dis2=1;}},onFinish:{func:function(t){}}}],time:0.6,autoStart:true});
+			zzz3 = new Tween({targets:[{target:b,start:1,end:0,prop:"opacity",easing:Tween.easing.regularEaseInOut,onStart:{func:function(t){}},onFinish:{func:function(t){}}}],time:0.3,autoStart:true});
+
+			document.getElementById("tiplink"+newtoolTip).style.left = "0px";
+			var m = document.getElementById("tip"+newtoolTip);
+
+			zzz2 = new Tween({targets:[{target:m,start:80,end:0,prop:"top",easing:Tween.easing.regularEaseInOut,onStart:{func:function(t){}}}],time:0.3,autoStart:true, delay: 0.4});
+			zzz4 = new Tween({targets:[{target:m,start:0,end:1,prop:"opacity",easing:Tween.easing.regularEaseInOut,onStart:{func:function(t){}},onFinish:{func:function(t){dis2=0;}}}],time:0.4,autoStart:true, delay: 0.4});
+			
+			var d1 = document.getElementById("xq"+newtoolTip);
+			xx1 = new Tween({targets:[{target:d1,start:600,end:0,prop:"left",easing:Tween.easing.regularEaseInOut,onFinish:{func:function(t){}}}],time:0.6,autoStart:true});
+			var d2 = document.getElementById("xq"+toolTip);
+			xx2 = new Tween({targets:[{target:d2,start:0,end:-600,prop:"left",easing:Tween.easing.regularEaseInOut,onFinish:{func:function(t){}}}],time:0.6,autoStart:true});
+			
+			toolTip = newtoolTip;
+			auto = toolTip + 1;
+
+			t=setTimeout("goLeft_poster(auto)",8000);
+		}
+	}
+	
+</script>
+
+	<div class="poster_container zoom1">
+		<div class="poster_shadow"></div>
+		<div id="main" class="poster_main zoom1">
+			<span class="poster_btn">
+			
+				<a id="btn_prev" class="poster_btn_full_l left" href="javascript: goRight_poster(toolTip+1);"></a>
+				<a id="btn_next" class="poster_btn_full_r left" href="javascript: goLeft_poster(toolTip-1);"></a>
+
+			</span>
+			
+			<a id="tiplink0" href="http://movies.walla.co.il/?w=%2F%40%40%2Fspecial&amp;s=thisis40" class="poster_url2 zoom1" style="left: 0px;"></a>
+					
+						<span class="poster_txt_in">
+												
+							<span id="tip0" class="poster_image2" style="top: 0px;">
+								<a href="http://movies.walla.co.il/?w=%2F%40%40%2Fspecial&amp;s=thisis40" class="poster_url3">
+									<span class="poster_txt_in2">אוהבים קומדיות?</span>
+									<br>
+									<span class="poster_txt_in3 w3">אנחנו מזמינים אתכם ל"הכל יחסים" - קומדיה חדשה מהיוצרים של "בתול בן 40"</span>
+								</a>
+							</span>
+						</span>
+					
+					<a id="tiplink1" href="http://movies.walla.co.il/?w=/@@/special&amp;s=die" class="poster_url2 zoom1" style=""></a>
+					
+						<span class="poster_txt_in">
+												
+							<span id="tip1" class="poster_image2" style="top: 286px;">
+								<a href="http://movies.walla.co.il/?w=/@@/special&amp;s=die" class="poster_url3">
+									<span class="poster_txt_in2">התפוח לא נופל רחוק</span>
+									<br>
+									<span class="poster_txt_in3 w3">אנחנו מזמינים אתכם לסרט הפעולה "מת לחיות ביום טוב" עם ברוס וויליס</span>
+								</a>
+							</span>
+						</span>
+					
+					<a id="tiplink2" href="http://movies.walla.co.il/?w=/@@/special&amp;s=first" class="poster_url2 zoom1" style=""></a>
+					
+						<span class="poster_txt_in">
+												
+							<span id="tip2" class="poster_image2" style="top: 286px;">
+								<a href="http://movies.walla.co.il/?w=/@@/special&amp;s=first" class="poster_url3">
+									<span class="poster_txt_in2">למה שלא תצאו לדייט?</span>
+									<br>
+									<span class="poster_txt_in3 w3">אנחנו מזמינים אתכם לסרט המקסים "הפעם הראשונה"</span>
+								</a>
+							</span>
+						</span>
+					
+					<a id="tiplink3" href="http://movies.walla.co.il/?w=/@@/special&amp;s=heaven" class="poster_url2 zoom1" style=""></a>
+					
+						<span class="poster_txt_in">
+												
+							<span id="tip3" class="poster_image2" style="top: 286px;">
+								<a href="http://movies.walla.co.il/?w=/@@/special&amp;s=heaven" class="poster_url3">
+									<span class="poster_txt_in2">רוצים לדעת מה הקטע שלה?</span>
+									<br>
+									<span class="poster_txt_in3 w3">אנחנו מחלקים כרטיסים במתנה לסרט "מקום מבטחים"</span>
+								</a>
+							</span>
+						</span>
+					
+					<a id="tiplink4" href="" class="poster_url2 zoom1" style=""></a>
+					
+						<span class="poster_txt_in">
+												
+							<span id="tip4" class="poster_image2" style="top: 286px;">
+								<a href="" class="poster_url3">
+									<span class="poster_txt_in2"></span>
+									<br>
+									<span class="poster_txt_in3 w3"></span>
+								</a>
+							</span>
+						</span>
+					
+					
+			
+			<div class="poster_overflow"></div>
+			
+			<div id="main2" class="poster_main zoom1" style="background: geen">
+				<div id="poster_box" class="poster_inner zoom1">
+			
+					
+					<div id="xq0" class="poster_item zoom1" style="left: 0px;">
+						<a href="http://movies.walla.co.il/?w=%2F%40%40%2Fspecial&amp;s=thisis40" class="poster_url zoom1">
+							<img id="poster0" src="http://msc.wcdn.co.il/archive/1437298-5.jpg" class="poster_image zoom1"  alt="" title="">
+						</a>
+					</div>
+					
+					<div id="xq1" class="poster_item zoom1" style="">
+						<a href="http://movies.walla.co.il/?w=/@@/special&amp;s=die" class="poster_url zoom1">
+							<img id="poster1" src="http://msc.wcdn.co.il/archive/1439705-5.jpg" class="poster_image zoom1"  alt="" title="">
+						</a>
+					</div>
+					
+					<div id="xq2" class="poster_item zoom1" style="">
+						<a href="http://movies.walla.co.il/?w=/@@/special&amp;s=first" class="poster_url zoom1">
+							<img id="poster2" src="http://msc.wcdn.co.il/archive/1443837-5.jpg" class="poster_image zoom1"  alt="" title="">
+						</a>
+					</div>
+					
+					<div id="xq3" class="poster_item zoom1" style="">
+						<a href="http://movies.walla.co.il/?w=/@@/special&amp;s=heaven" class="poster_url zoom1">
+							<img id="poster3" src="http://msc.wcdn.co.il/archive/1439747-5.jpg" class="poster_image zoom1"  alt="" title="">
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<script>
+	t=setTimeout("goLeft_poster(1)",8000);
+	var v=setTimeout("document.getElementById('poster_box').focus()",300);
+</script>
+
+</div>
+<div class="wp-0-b" style="position: relative; z-index: 5; width: 100%">
+
+<h2 class="hd0">מציגים בבתי הקולנוע</h2>
+<div class="dropdown_selection">
+	
+	
+	<div class="padd right" style="width:130px; width=145px;">
+		<div class="dropdown_selected" onclick="TopShowPopup('index_movies_dropdown',event);"><img src="http://isc.wcdn.co.il/w9/v/movies/arrow_drop.gif" class="left"> סרטים מציגים<span class="wcflow"></span></div>
+		<div style="position:relative; width:130px;">
+			<div id="index_movies_dropdown" class="dropdown_position" style="width:247px;">
+			    
+				
+				<div class="inner_dropdown_box_wrap">
+				<div class="title">א</div><a href="/movie/4836/%E0%E4%E1%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1408607-38.jpg" align="absmiddle" onclick="location.href='/movie/4836/%E0%E4%E1%E4';" />
+							
+							</span> אהבה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4797/%E0%E5%F4%E8%E9%EE%E9%E5%FA%5F%E4%E9%E0%5F%F9%ED%5F%E4%EE%F9%E7%F7" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1374055-38.jpg" align="absmiddle" onclick="location.href='/movie/4797/%E0%E5%F4%E8%E9%EE%E9%E5%FA%5F%E4%E9%E0%5F%F9%ED%5F%E4%EE%F9%E7%F7';" />
+							
+							</span> אופטימיות היא שם המשחק
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4865/%E0%E5%F8%5F%EC%E0%E7%F8%5F%E4%E7%F9%EB%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1423072-38.jpg" align="absmiddle" onclick="location.href='/movie/4865/%E0%E5%F8%5F%EC%E0%E7%F8%5F%E4%E7%F9%EB%E4';" />
+							
+							</span> אור לאחר החשכה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4752/%E0%E9%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1389503-38.jpg" align="absmiddle" onclick="location.href='/movie/4752/%E0%E9%E4';" />
+							
+							</span> איה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4874/%E0%EE%E0%5F%EE%EC%E5%E5%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1431163-38.jpg" align="absmiddle" onclick="location.href='/movie/4874/%E0%EE%E0%5F%EE%EC%E5%E5%E4';" />
+							
+							</span> אמא מלווה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4774/%E0%F0%E4%5F%F7%F8%F0%E9%F0%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1415577-38.jpg" align="absmiddle" onclick="location.href='/movie/4774/%E0%F0%E4%5F%F7%F8%F0%E9%F0%E4';" />
+							
+							</span> אנה קרנינה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4756/%E0%F8%E2%E5" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1411185-38.jpg" align="absmiddle" onclick="location.href='/movie/4756/%E0%F8%E2%E5';" />
+							
+							</span> ארגו
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4700/%E0%F8%F5%5F%E9%E1%F9%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1383685-38.jpg" align="absmiddle" onclick="location.href='/movie/4700/%E0%F8%F5%5F%E9%E1%F9%E4';" />
+							
+							</span> ארץ יבשה
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ב</div><a href="/movie/4858/%E1%E0%E4%E1%E4%2C%5F%EE%F8%E9%EC%E9%EF" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1419128-38.jpg" align="absmiddle" onclick="location.href='/movie/4858/%E1%E0%E4%E1%E4%2C%5F%EE%F8%E9%EC%E9%EF';" />
+							
+							</span> באהבה, מרילין
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4889/%E1%E2%F8%E5%FA%5F%EC%E5%E7%EE%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1438486-38.jpg" align="absmiddle" onclick="location.href='/movie/4889/%E1%E2%F8%E5%FA%5F%EC%E5%E7%EE%E9%ED';" />
+							
+							</span> בגרות לוחמים
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4758/%E1%EC%E3%E4%5F%EC%E0%E1%E9%E1%5F%E4%E1%E5%EB%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1405650-38.jpg" align="absmiddle" onclick="location.href='/movie/4758/%E1%EC%E3%E4%5F%EC%E0%E1%E9%E1%5F%E4%E1%E5%EB%E4';" />
+							
+							</span> בלדה לאביב הבוכה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4255/%E1%F2%E5%EC%ED%5F%E8%E5%E1%5F%E9%E5%FA%F8" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/990458-38.jpg" align="absmiddle" onclick="location.href='/movie/4255/%E1%F2%E5%EC%ED%5F%E8%E5%E1%5F%E9%E5%FA%F8';" />
+							
+							</span> בעולם טוב יותר
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4804/%E1%F8%E1%F8%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1385499-38.jpg" align="absmiddle" onclick="location.href='/movie/4804/%E1%F8%E1%F8%E4';" />
+							
+							</span> ברברה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4823/%E1%F8%E5%EB%E9%ED%5F%E4%E1%E0%E9%ED%5F%E4%E1%E9%FA%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1400771-38.jpg" align="absmiddle" onclick="location.href='/movie/4823/%E1%F8%E5%EB%E9%ED%5F%E4%E1%E0%E9%ED%5F%E4%E1%E9%FA%E4';" />
+							
+							</span> ברוכים הבאים הביתה
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ג</div><a href="/movie/4673/%E2%27%E0%F0%E2%E5%5F%EC%EC%E0%5F%EE%F2%F6%E5%F8%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1425315-38.jpg" align="absmiddle" onclick="location.href='/movie/4673/%E2%27%E0%F0%E2%E5%5F%EC%EC%E0%5F%EE%F2%F6%E5%F8%E9%ED';" />
+							
+							</span> ג'אנגו ללא מעצורים
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4813/%E2%27%F7%5F%F8%E9%F6%27%F8" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1411190-38.jpg" align="absmiddle" onclick="location.href='/movie/4813/%E2%27%F7%5F%F8%E9%F6%27%F8';" />
+							
+							</span> ג'ק ריצ'ר
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4835/%E2%27%F7%E9" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1408586-38.jpg" align="absmiddle" onclick="location.href='/movie/4835/%E2%27%F7%E9';" />
+							
+							</span> ג'קי
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ד</div><a href="/movie/4879/%E3%E9%E5%F7%F0%E4%5F%F9%EC%5F%EE%E0%F8%E9" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1432138-38.jpg" align="absmiddle" onclick="location.href='/movie/4879/%E3%E9%E5%F7%F0%E4%5F%F9%EC%5F%EE%E0%F8%E9';" />
+							
+							</span> דיוקנה של מארי
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4773/%E3%EE%E3%E5%EE%E9%ED%3A%5F%F9%E7%F8%5F%EE%F4%F6%E9%F2%2C%5F%E7%EC%F7%5F%E1%27" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1392795-38.jpg" align="absmiddle" onclick="location.href='/movie/4773/%E3%EE%E3%E5%EE%E9%ED%3A%5F%F9%E7%F8%5F%EE%F4%F6%E9%F2%2C%5F%E7%EC%F7%5F%E1%27';" />
+							
+							</span> דמדומים: שחר מפציע, חלק ב'
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ה</div><a href="/movie/4840/%E4%E1%EC%FA%E9%5F%E0%F4%F9%F8%E9" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1408627-38.jpg" align="absmiddle" onclick="location.href='/movie/4840/%E4%E1%EC%FA%E9%5F%E0%F4%F9%F8%E9';" />
+							
+							</span> הבלתי אפשרי
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4413/%E4%E3%E9%F8%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1137404-38.jpg" align="absmiddle" onclick="location.href='/movie/4413/%E4%E3%E9%F8%E4';" />
+							
+							</span> הדירה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4641/%E4%E4%E5%E1%E9%E8%3A%5F%EE%F1%F2%5F%E1%EC%FA%E9%5F%F6%F4%E5%E9" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1401827-38.jpg" align="absmiddle" onclick="location.href='/movie/4641/%E4%E4%E5%E1%E9%E8%3A%5F%EE%F1%F2%5F%E1%EC%FA%E9%5F%F6%F4%E5%E9';" />
+							
+							</span> ההוביט: מסע בלתי צפוי
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4837/%E4%E4%E5%E1%E9%E8%3A%5F%EE%F1%F2%5F%E1%EC%FA%E9%5F%F6%F4%E5%E9%5F%FA%EC%FA%5F%EE%E9%EE%E3" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1401827-38.jpg" align="absmiddle" onclick="location.href='/movie/4837/%E4%E4%E5%E1%E9%E8%3A%5F%EE%F1%F2%5F%E1%EC%FA%E9%5F%F6%F4%E5%E9%5F%FA%EC%FA%5F%EE%E9%EE%E3';" />
+							
+							</span> ההוביט: מסע בלתי צפוי תלת מימד
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4861/%E4%E8%E1%E7%E9%FA%5F%F9%EC%5F%E4%F0%F9%E9%E0" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1421028-38.jpg" align="absmiddle" onclick="location.href='/movie/4861/%E4%E8%E1%E7%E9%FA%5F%F9%EC%5F%E4%F0%F9%E9%E0';" />
+							
+							</span> הטבחית של הנשיא
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4846/%E4%E8%E9%F1%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1413327-38.jpg" align="absmiddle" onclick="location.href='/movie/4846/%E4%E8%E9%F1%E4';" />
+							
+							</span> הטיסה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4718/%E4%E9%E5%5F%E6%EE%F0%E9%ED%5F%E1%E0%F0%E8%E5%EC%E9%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1339220-38.jpg" align="absmiddle" onclick="location.href='/movie/4718/%E4%E9%E5%5F%E6%EE%F0%E9%ED%5F%E1%E0%F0%E8%E5%EC%E9%E4';" />
+							
+							</span> היו זמנים באנטוליה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4853/%E4%E9%F6%27%F7%E5%F7" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1407125-38.jpg" align="absmiddle" onclick="location.href='/movie/4853/%E4%E9%F6%27%F7%E5%F7';" />
+							
+							</span> היצ'קוק
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4833/%E4%F2%E5%EC%ED%5F%F2%EC%5F%F4%E9%5F%E3%E9%F0%E5%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1405371-38.jpg" align="absmiddle" onclick="location.href='/movie/4833/%E4%F2%E5%EC%ED%5F%F2%EC%5F%F4%E9%5F%E3%E9%F0%E5%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> העולם על פי דינו מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4834/%E4%F2%E5%EC%ED%5F%F2%EC%5F%F4%E9%5F%E3%E9%F0%E5%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1405371-38.jpg" align="absmiddle" onclick="location.href='/movie/4834/%E4%F2%E5%EC%ED%5F%F2%EC%5F%F4%E9%5F%E3%E9%F0%E5%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> העולם על פי דינו תלת מימד מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4839/%E4%F8%E5%E5%F7%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1405925-38.jpg" align="absmiddle" onclick="location.href='/movie/4839/%E4%F8%E5%E5%F7%E4';" />
+							
+							</span> הרווקה
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ח</div><a href="/movie/4768/%E7%E9%E9%5F%F4%E9%E9" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1395099-38.jpg" align="absmiddle" onclick="location.href='/movie/4768/%E7%E9%E9%5F%F4%E9%E9';" />
+							
+							</span> חיי פיי
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4847/%E7%E9%E9%5F%F4%E9%E9%5F%FA%EC%FA%5F%EE%E9%EE%E3" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1395099-38.jpg" align="absmiddle" onclick="location.href='/movie/4847/%E7%E9%E9%5F%F4%E9%E9%5F%FA%EC%FA%5F%EE%E9%EE%E3';" />
+							
+							</span> חיי פיי תלת מימד
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4748/%E7%EC%F7%ED%5F%F9%EC%5F%EE%EC%E0%EB%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1346438-38.jpg" align="absmiddle" onclick="location.href='/movie/4748/%E7%EC%F7%ED%5F%F9%EC%5F%EE%EC%E0%EB%E9%ED';" />
+							
+							</span> חלקם של מלאכים
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">י</div><a href="/movie/4795/%E9%E7%E9%E3%FA%5F%E4%E2%F0%E2%F1%E8%F8%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1432139-38.jpg" align="absmiddle" onclick="location.href='/movie/4795/%E9%E7%E9%E3%FA%5F%E4%E2%F0%E2%F1%E8%F8%E9%ED';" />
+							
+							</span> יחידת הגנגסטרים
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">כ</div><a href="/movie/27/%EB%E1%E9%F9%5F%E0%E1%E5%E3" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/90091-38.jpg" align="absmiddle" onclick="location.href='/movie/27/%EB%E1%E9%F9%5F%E0%E1%E5%E3';" />
+							
+							</span> כביש אבוד
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4792/%EB%E3%E5%F8%5F%E1%F8%E0%F9" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1426551-38.jpg" align="absmiddle" onclick="location.href='/movie/4792/%EB%E3%E5%F8%5F%E1%F8%E0%F9';" />
+							
+							</span> כדור בראש
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4873/%EB%E5%F0%F0%E5%FA%5F%F2%ED%5F%F9%E7%F8" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1431874-38.jpg" align="absmiddle" onclick="location.href='/movie/4873/%EB%E5%F0%F0%E5%FA%5F%F2%ED%5F%F9%E7%F8';" />
+							
+							</span> כוננות עם שחר
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4820/%EB%EC%E9%ED%5F%F9%EC%E5%E1%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1396819-38.jpg" align="absmiddle" onclick="location.href='/movie/4820/%EB%EC%E9%ED%5F%F9%EC%E5%E1%E9%ED';" />
+							
+							</span> כלים שלובים
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4794/%EB%EE%E5%5F%EE%E9%F9%E4%E5%5F%EE%E0%E5%E4%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1378054-38.jpg" align="absmiddle" onclick="location.href='/movie/4794/%EB%EE%E5%5F%EE%E9%F9%E4%E5%5F%EE%E0%E5%E4%E1';" />
+							
+							</span> כמו מישהו מאוהב
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ל</div><a href="/movie/4851/%EC%E0%5F%E1%FA%EC%5F%E0%E1%E9%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1415479-38.jpg" align="absmiddle" onclick="location.href='/movie/4851/%EC%E0%5F%E1%FA%EC%5F%E0%E1%E9%E1';" />
+							
+							</span> לא בתל אביב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4806/%EC%E9%EC%E4%5F%E0%E7%F8%E5%EF%5F%E1%F2%E9%F8" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1442791-38.jpg" align="absmiddle" onclick="location.href='/movie/4806/%EC%E9%EC%E4%5F%E0%E7%F8%E5%EF%5F%E1%F2%E9%F8';" />
+							
+							</span> לילה אחרון בעיר
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4775/%EC%E9%F0%F7%E5%EC%EF" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1359930-38.jpg" align="absmiddle" onclick="location.href='/movie/4775/%EC%E9%F0%F7%E5%EC%EF';" />
+							
+							</span> לינקולן
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4763/%EC%EE%EC%E0%5F%E0%FA%5F%E4%E7%EC%EC" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1351328-38.jpg" align="absmiddle" onclick="location.href='/movie/4763/%EC%EE%EC%E0%5F%E0%FA%5F%E4%E7%EC%EC';" />
+							
+							</span> למלא את החלל
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4859/%EC%F9%E7%F7%5F%F2%ED%5F%E4%EC%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1418068-38.jpg" align="absmiddle" onclick="location.href='/movie/4859/%EC%F9%E7%F7%5F%F2%ED%5F%E4%EC%E1';" />
+							
+							</span> לשחק עם הלב
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">מ</div><a href="/movie/4781/%EE%E4%F4%EB%E4%5F%E1%E1%E9%FA" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1358794-38.jpg" align="absmiddle" onclick="location.href='/movie/4781/%EE%E4%F4%EB%E4%5F%E1%E1%E9%FA';" />
+							
+							</span> מהפכה בבית
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4229/%EE%E9%ED%5F%EC%F4%E9%EC%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/954954-38.jpg" align="absmiddle" onclick="location.href='/movie/4229/%EE%E9%ED%5F%EC%F4%E9%EC%E9%ED';" />
+							
+							</span> מים לפילים
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4855/%EE%F0%E5%F2%E9%ED%5F%F7%E3%E5%F9%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1427621-38.jpg" align="absmiddle" onclick="location.href='/movie/4855/%EE%F0%E5%F2%E9%ED%5F%F7%E3%E5%F9%E9%ED';" />
+							
+							</span> מנועים קדושים
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4870/%EE%F4%EC%F6%E5%FA%5F%E1%F2%22%EE%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1370061-38.jpg" align="absmiddle" onclick="location.href='/movie/4870/%EE%F4%EC%F6%E5%FA%5F%E1%F2%22%EE%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> מפלצות בע"מ תלת מימד מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4786/%EE%F4%EC%F6%FA%5F%F9%EC%5F%EE%EC%E5%EF%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1342431-38.jpg" align="absmiddle" onclick="location.href='/movie/4786/%EE%F4%EC%F6%FA%5F%F9%EC%5F%EE%EC%E5%EF%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> מפלצת של מלון מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4785/%EE%F4%EC%F6%FA%5F%F9%EC%5F%EE%EC%E5%EF%5F%FA%EC%FA%5F%EE%E9%EE%E3" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1342431-38.jpg" align="absmiddle" onclick="location.href='/movie/4785/%EE%F4%EC%F6%FA%5F%F9%EC%5F%EE%EC%E5%EF%5F%FA%EC%FA%5F%EE%E9%EE%E3';" />
+							
+							</span> מפלצת של מלון תלת מימד
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4875/%EE%F7%E5%ED%5F%EE%E1%E8%E7%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1432015-38.jpg" align="absmiddle" onclick="location.href='/movie/4875/%EE%F7%E5%ED%5F%EE%E1%E8%E7%E9%ED';" />
+							
+							</span> מקום מבטחים
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4831/%EE%F8%E2%EC%FA%5F%EE%FA%E1%E2%F8%FA" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1405364-38.jpg" align="absmiddle" onclick="location.href='/movie/4831/%EE%F8%E2%EC%FA%5F%EE%FA%E1%E2%F8%FA';" />
+							
+							</span> מרגלת מתבגרת
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4880/%EE%FA%5F%F2%EC%E9%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1439711-38.jpg" align="absmiddle" onclick="location.href='/movie/4880/%EE%FA%5F%F2%EC%E9%E4';" />
+							
+							</span> מת עליה
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">נ</div><a href="/movie/4812/%F0%E9%F6%E5%E3" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1392358-38.jpg" align="absmiddle" onclick="location.href='/movie/4812/%F0%E9%F6%E5%E3';" />
+							
+							</span> ניצוד
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ס</div><a href="/movie/4871/%F1%E9%F0%E9%5F%E1%E8%E9%E9%F7%5F%E0%E5%E5%E9" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1427283-38.jpg" align="absmiddle" onclick="location.href='/movie/4871/%F1%E9%F0%E9%5F%E1%E8%E9%E9%F7%5F%E0%E5%E5%E9';" />
+							
+							</span> סיני בטייק אווי
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4843/%F1%F8%E8%5F%34%33" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1420246-38.jpg" align="absmiddle" onclick="location.href='/movie/4843/%F1%F8%E8%5F%34%33';" />
+							
+							</span> סרט 43
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ע</div><a href="/movie/4803/%F2%E5%E3%5F%EC%E0%5F%F8%E0%E9%FA%ED%5F%EB%EC%E5%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1388802-38.jpg" align="absmiddle" onclick="location.href='/movie/4803/%F2%E5%E3%5F%EC%E0%5F%F8%E0%E9%FA%ED%5F%EB%EC%E5%ED';" />
+							
+							</span> עוד לא ראיתם כלום
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4860/%F2%E5%EE%E3%5F%E0%E7%F8%E5%EF" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1421029-38.jpg" align="absmiddle" onclick="location.href='/movie/4860/%F2%E5%EE%E3%5F%E0%E7%F8%E5%EF';" />
+							
+							</span> עומד אחרון
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4876/%F2%E9%F8%5F%F9%E1%E5%F8%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1431165-38.jpg" align="absmiddle" onclick="location.href='/movie/4876/%F2%E9%F8%5F%F9%E1%E5%F8%E4';" />
+							
+							</span> עיר שבורה
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4771/%F2%EC%E5%E1%E9%5F%E4%E7%E9%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1433088-38.jpg" align="absmiddle" onclick="location.href='/movie/4771/%F2%EC%E5%E1%E9%5F%E4%E7%E9%E9%ED';" />
+							
+							</span> עלובי החיים
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4842/%F2%F0%EF%5F%E0%E8%EC%F1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1411287-38.jpg" align="absmiddle" onclick="location.href='/movie/4842/%F2%F0%EF%5F%E0%E8%EC%F1';" />
+							
+							</span> ענן אטלס
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">פ</div><a href="/movie/63/%F4%E0%F8%E2%E5" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/15588-38.jpg" align="absmiddle" onclick="location.href='/movie/63/%F4%E0%F8%E2%E5';" />
+							
+							</span> פארגו
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4857/%F4%E5%F4%E5%EC%F8%E9%E5%FA" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1418069-38.jpg" align="absmiddle" onclick="location.href='/movie/4857/%F4%E5%F4%E5%EC%F8%E9%E5%FA';" />
+							
+							</span> פופולריות
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4864/%F4%F2%ED%5F%F0%EB%F0%F1%FA%E9%5F%EC%E2%EF" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1422319-38.jpg" align="absmiddle" onclick="location.href='/movie/4864/%F4%F2%ED%5F%F0%EB%F0%F1%FA%E9%5F%EC%E2%EF';" />
+							
+							</span> פעם נכנסתי לגן
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4829/%F4%F8%E0%F0%E5%F8%EE%EF%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1384046-38.jpg" align="absmiddle" onclick="location.href='/movie/4829/%F4%F8%E0%F0%E5%F8%EE%EF%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> פראנורמן תלת מימד מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ק</div><a href="/movie/4346/%F7%E0%E8%F4%E9%F9" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1097789-38.jpg" align="absmiddle" onclick="location.href='/movie/4346/%F7%E0%E8%F4%E9%F9';" />
+							
+							</span> קאטפיש
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4196/%F7%F8%5F%F2%E3%5F%E4%F2%F6%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/912750-38.jpg" align="absmiddle" onclick="location.href='/movie/4196/%F7%F8%5F%F2%E3%5F%E4%F2%F6%ED';" />
+							
+							</span> קר עד העצם
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ר</div><a href="/movie/4825/%F8%E0%EC%F3%5F%E4%E4%E5%F8%F1%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1389056-38.jpg" align="absmiddle" onclick="location.href='/movie/4825/%F8%E0%EC%F3%5F%E4%E4%E5%F8%F1%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> ראלף ההורס מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4824/%F8%E0%EC%F3%5F%E4%E4%E5%F8%F1%5F%FA%EC%FA%5F%EE%E9%EE%E3" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1389056-38.jpg" align="absmiddle" onclick="location.href='/movie/4824/%F8%E0%EC%F3%5F%E4%E4%E5%F8%F1%5F%FA%EC%FA%5F%EE%E9%EE%E3';" />
+							
+							</span> ראלף ההורס תלת מימד
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4826/%F8%E0%EC%F3%5F%E4%E4%E5%F8%F1%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1389056-38.jpg" align="absmiddle" onclick="location.href='/movie/4826/%F8%E0%EC%F3%5F%E4%E4%E5%F8%F1%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> ראלף ההורס תלת מימד מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4796/%F8%F7%5F%E0%E4%E1%E4" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1378725-38.jpg" align="absmiddle" onclick="location.href='/movie/4796/%F8%F7%5F%E0%E4%E1%E4';" />
+							
+							</span> רק אהבה
+						</span>
+						<span class="wcflow"></span>
+					</a><div class="title">ש</div><a href="/movie/4883/%F9%E1%F2%E4%5F%F4%F1%E9%EB%E5%F4%E8%E9%ED" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1438485-38.jpg" align="absmiddle" onclick="location.href='/movie/4883/%F9%E1%F2%E4%5F%F4%F1%E9%EB%E5%F4%E8%E9%ED';" />
+							
+							</span> שבעה פסיכופטים
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4816/%F9%E5%EE%F8%E9%5F%E4%E0%E2%E3%E5%FA%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1398950-38.jpg" align="absmiddle" onclick="location.href='/movie/4816/%F9%E5%EE%F8%E9%5F%E4%E0%E2%E3%E5%FA%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> שומרי האגדות מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4818/%F9%E5%EE%F8%E9%5F%E4%E0%E2%E3%E5%FA%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1398950-38.jpg" align="absmiddle" onclick="location.href='/movie/4818/%F9%E5%EE%F8%E9%5F%E4%E0%E2%E3%E5%FA%5F%FA%EC%FA%5F%EE%E9%EE%E3%5F%EE%E3%E5%E1%E1';" />
+							
+							</span> שומרי האגדות תלת מימד מדובב
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4849/%F9%E5%EE%F8%E9%5F%E4%F1%F3" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1414519-38.jpg" align="absmiddle" onclick="location.href='/movie/4849/%F9%E5%EE%F8%E9%5F%E4%F1%F3';" />
+							
+							</span> שומרי הסף
+						</span>
+						<span class="wcflow"></span>
+					</a><a href="/movie/4757/%F9%EC%E2%E9%5F%E4%F7%E9%EC%E9%EE%F0%E2%27%F8%E5" class="inner_dropdown_box" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_movie',16);">
+						<span class="dropdown_0 dropdown_height_m block" onmouseover="this.className='dropdown_1 dropdown_height_m'" onmouseout="this.className='dropdown_0 dropdown_height_m'">
+							<span class="block right">
+								
+									<img src="http://msc.wcdn.co.il/archive/1395782-38.jpg" align="absmiddle" onclick="location.href='/movie/4757/%F9%EC%E2%E9%5F%E4%F7%E9%EC%E9%EE%F0%E2%27%F8%E5';" />
+							
+							</span> שלגי הקילימנג'רו
+						</span>
+						<span class="wcflow"></span>
+					</a>
+				
+				
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	
+	<div class="padd right" style="width:130px; width=145px;">
+		<div class="dropdown_selected" onclick="TopShowPopup('index_area_dropdown',event);"><img src="http://isc.wcdn.co.il/w9/v/movies/arrow_drop.gif" class="left"> יישוב<span class="wcflow"></span></div>
+		<div style="position:relative; width:130px; ">
+			<div id="index_area_dropdown" class="dropdown_position" style="width:130px;">
+				<div class="inner_dropdown_box_wrap">
+				<div class="title">בתי קולנוע ביישוב:</div>
+				<div class="inner_dropdown_box">
+				  
+				<a href="?w=/@yesplanet" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area_yesplanet',16);">yes planet</a><a href="/?w=/47/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">תל אביב</a><a href="/?w=/49/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">ירושלים</a><a href="/?w=/50/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">חיפה</a><a href="/?w=/144/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">אבן יהודה</a><a href="/?w=/125/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">אילת</a><a href="/?w=/127/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">אשדוד</a><a href="/?w=/128/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">אשקלון</a><a href="/?w=/51/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">באר שבע</a><a href="/?w=/137/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">בת ים</a><a href="/?w=/151/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">גבעתיים</a><a href="/?w=/131/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">הוד השרון</a><a href="/?w=/126/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">הרצליה</a><a href="/?w=/136/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">חולון</a><a href="/?w=/110/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">כפר סבא</a><a href="/?w=/153/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">מודיעין</a><a href="/?w=/124/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">נהריה</a><a href="/?w=/133/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">נס ציונה</a><a href="/?w=/112/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">נתניה</a><a href="/?w=/150/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">עמק הירדן</a><a href="/?w=/154/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">עפולה</a><a href="/?w=/59/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">פתח תקוה</a><a href="/?w=/141/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">קרית אונו</a><a href="/?w=/122/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">קרית ביאליק</a><a href="/?w=/60/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">ראשון לציון</a><a href="/?w=/132/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">רחובות</a><a href="/?w=/48/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">רמת גן</a><a href="/?w=/117/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">רמת השרון</a><a href="/?w=/115/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">רעננה</a><a href="/?w=/145/0,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_area',16);">שדרות</a>
+				
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="padd right" style="width:130px; width=145px;">
+		<div class="dropdown_selected" onclick="TopShowPopup('index_genre_dropdown',event);"><img src="http://isc.wcdn.co.il/w9/v/movies/arrow_drop.gif" class="left"> ז'אנרים<span class="wcflow"></span></div>
+		<div style="position:relative; width:130px;">
+			<div id="index_genre_dropdown" class="dropdown_position" style="width:130px;">
+				<div class="inner_dropdown_box_wrap">
+				
+				<div class="title">סוג הקרנה</div>
+				<a href="/?w=/0/0,100,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_mtype',16);">3D</a><a href="/?w=/0/0,101,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_mtype',16);">3D מדובב</a><a href="/?w=/0/0,104,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_mtype',16);">4DX</a><a href="/?w=/0/0,103,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_mtype',16);">איימקס</a><a href="/?w=/0/0,102,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_mtype',16);">מדובב</a>
+				
+				<div class="title" style="margin-top:4px;">ז'אנרים</div>
+				<div class="inner_dropdown_box">
+				<a href="/?w=/0/1,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">דרמה</a><a href="/?w=/0/2,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">קומדיה</a><a href="/?w=/0/3,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">מתח</a><a href="/?w=/0/4,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">פעולה</a><a href="/?w=/0/6,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">הרפתקאות</a><a href="/?w=/0/8,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">תעודי</a><a href="/?w=/0/9,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">מוסיקלי</a><a href="/?w=/0/11,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">מדע בדיוני</a><a href="/?w=/0/14,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">אימה</a><a href="/?w=/0/16,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">רומנטיקה</a><a href="/?w=/0/18,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">פנטזיה</a><a href="/?w=/0/45,0,0/@displays" class="dropdown_0 dropdown_height_a" onmouseover="this.className='dropdown_1 dropdown_height_a'" onmouseout="this.className='dropdown_0 dropdown_height_a'" onclick="Evt(movie_evt,0,'',0,'movies_i_drop_genere',16);">מערבון</a>
+				</div>
+				
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<span class="clear"></span>
+	
+
+</div>
+
+
+</div>
+
+
+<div class="wp-0-b zoom1" style="position:relative; z-index:1;">
+	<h2 class="hd3">
+	<a href="/?w=/@displays">סרטים חדשים</a>
+	</h2>
+
+<div class="relative" style="width:100%">
+            <div class="left_link_position link">
+				<img src="http://isc.wcdn.co.il/w9/v/movies/2012/plus.gif" class="plus_img">
+				<a href="/?w=/@displays">לרשימה המלאה</a>
+			</div>
+   </div>
+
+
+	<div>
+	   <div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://movies.walla.co.il/movie/4771/%F2%EC%E5%E1%E9%5F%E4%E7%E9%E9%ED"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1433088-14.jpg" alt="עלובי החיים" alt="עלובי החיים" title="עלובי החיים" /></a><a href="http://movies.walla.co.il/movie/4771/%F2%EC%E5%E1%E9%5F%E4%E7%E9%E9%ED" class="w2b block"><b class="movie_title">עלובי החיים</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.69 - 52 מצביעים">
+			<span style="width: 73%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://movies.walla.co.il/movie/4806/%EC%E9%EC%E4%5F%E0%E7%F8%E5%EF%5F%E1%F2%E9%F8"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1442791-14.jpg" alt="לילה אחרון בעיר" alt="לילה אחרון בעיר" title="לילה אחרון בעיר" /></a><a href="http://movies.walla.co.il/movie/4806/%EC%E9%EC%E4%5F%E0%E7%F8%E5%EF%5F%E1%F2%E9%F8" class="w2b block"><b class="movie_title">לילה אחרון בעיר</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.83 - 6 מצביעים">
+			<span style="width: 76%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://movies.walla.co.il/movie/4883/%F9%E1%F2%E4%5F%F4%F1%E9%EB%E5%F4%E8%E9%ED"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1438485-14.jpg" alt="שבעה פסיכופטים" alt="שבעה פסיכופטים" title="שבעה פסיכופטים" /></a><a href="http://movies.walla.co.il/movie/4883/%F9%E1%F2%E4%5F%F4%F1%E9%EB%E5%F4%E8%E9%ED" class="w2b block"><b class="movie_title">שבעה פסיכופטים</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.82 - 3 מצביעים">
+			<span style="width: 76%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style=" position: relative;">
+<a href="http://movies.walla.co.il/movie/4880/%EE%FA%5F%F2%EC%E9%E4"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1439711-14.jpg" alt="מת עליה" alt="מת עליה" title="מת עליה" /></a><a href="http://movies.walla.co.il/movie/4880/%EE%FA%5F%F2%EC%E9%E4" class="w2b block"><b class="movie_title">מת עליה</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.86 - 13 מצביעים">
+			<span style="width: 77%;" class="s_stars_rank"></span>
+		</span></span>
+</div> <span class="wcflow"></span>
+	</div>
+  
+</div>
+
+
+<div class="wp-0-b zoom1" style="position:relative; z-index:1;">
+	<h2 class="hd3">
+	<a href="/?w=/@displays">סרטים חמים</a>
+	</h2>
+
+<div class="relative" style="width:100%">
+            <div class="left_link_position link">
+				<img src="http://isc.wcdn.co.il/w9/v/movies/2012/plus.gif" class="plus_img">
+				<a href="/?w=/@displays">לרשימה המלאה</a>
+			</div>
+   </div>
+
+
+	<div>
+	   <div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://movies.walla.co.il/movie/4673/%E2%27%E0%F0%E2%E5%5F%EC%EC%E0%5F%EE%F2%F6%E5%F8%E9%ED"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1425315-14.jpg" alt="ג’אנגו ללא מעצורים" alt="ג’אנגו ללא מעצורים" title="ג’אנגו ללא מעצורים" /></a><a href="http://movies.walla.co.il/movie/4673/%E2%27%E0%F0%E2%E5%5F%EC%EC%E0%5F%EE%F2%F6%E5%F8%E9%ED" class="w2b block"><b class="movie_title">ג’אנגו ללא מעצורים</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.59 - 99 מצביעים">
+			<span style="width: 71%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://movies.walla.co.il/movie/4853/%E4%E9%F6%27%F7%E5%F7"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1407125-14.jpg" alt="היצ’קוק" alt="היצ’קוק" title="היצ’קוק" /></a><a href="http://movies.walla.co.il/movie/4853/%E4%E9%F6%27%F7%E5%F7" class="w2b block"><b class="movie_title">היצ’קוק</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.82 - 9 מצביעים">
+			<span style="width: 76%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://movies.walla.co.il/movie/4836/%E0%E4%E1%E4"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1408607-14.jpg" alt="אהבה" alt="אהבה" title="אהבה" /></a><a href="http://movies.walla.co.il/movie/4836/%E0%E4%E1%E4" class="w2b block"><b class="movie_title">אהבה</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.64 - 28 מצביעים">
+			<span style="width: 72%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style=" position: relative;">
+<a href="http://movies.walla.co.il/movie/4873/%EB%E5%F0%F0%E5%FA%5F%F2%ED%5F%F9%E7%F8"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1431874-14.jpg" alt="כוננות עם שחר" alt="כוננות עם שחר" title="כוננות עם שחר" /></a><a href="http://movies.walla.co.il/movie/4873/%EB%E5%F0%F0%E5%FA%5F%F2%ED%5F%F9%E7%F8" class="w2b block"><b class="movie_title">כוננות עם שחר</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.78 - 20 מצביעים">
+			<span style="width: 75%;" class="s_stars_rank"></span>
+		</span></span>
+</div> <span class="wcflow"></span>
+	</div>
+  
+</div>
+		
+		<div class="wp-0-b" style="padding:0px 0px 15px 0px;margin:0px 0;">
+		<div class="fEvent">
+		<table width="100%" cellspacing=0 height="130" style="table-layout:fixed;border-top-color:black;border-top-style:solid;border-top-width:1px;">
+		<tr><td align="center" width="100%" valign=top>
+		<script type="text/javascript"> window.Fusion.space("strip"); </script> 
+		</td></tr></table></div></div>
+
+
+<div class="wp-0-b zoom1" style="position:relative; z-index:1;">
+	<h2 class="hd0">
+	<a href="/?w=/@soon">בקרוב בבתי הקולנוע</a>
+	</h2>
+
+<div class="relative" style="width:100%">
+            <div class="left_link_position link">
+				<img src="http://isc.wcdn.co.il/w9/v/movies/2012/plus.gif" class="plus_img">
+				<a href="/?w=/@soon">לרשימה המלאה</a>
+			</div>
+   </div>
+
+
+	<div>
+	   <div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*heaven" style="position: absolute; right: -3px; top: -2px;"><img src="http://isc.wcdn.co.il/w9/v/movies/archive/free-tickets-strip.gif" alt="מקום מבטחים" title="מקום מבטחים" /></a><a href="http://movies.walla.co.il/movie/4875/%EE%F7%E5%ED%5F%EE%E1%E8%E7%E9%ED"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1432015-14.jpg" alt="מקום מבטחים" alt="מקום מבטחים" title="מקום מבטחים" /></a><div class="upcoming_2 w2b">החל מיום חמישי</div><a href="http://movies.walla.co.il/movie/4875/%EE%F7%E5%ED%5F%EE%E1%E8%E7%E9%ED" class="w2b block"><b class="movie_title">מקום מבטחים</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.77 - 10 מצביעים">
+			<span style="width: 75%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://a.walla.co.il/WidgetEvent.asp?l=walla.movies.&event_type=1&DIvName=specials&page_location=6&un=yshef&url=http://movies.walla.co.il/^w*/@@/special||s*die" style="position: absolute; right: -3px; top: -2px;"><img src="http://isc.wcdn.co.il/w9/v/movies/archive/free-tickets-strip.gif" alt="מת לחיות ביום טוב" title="מת לחיות ביום טוב" /></a><a href="http://movies.walla.co.il/movie/4862/%EE%FA%5F%EC%E7%E9%E5%FA%5F%E1%E9%E5%ED%5F%E8%E5%E1"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1432119-14.jpg" alt="מת לחיות ביום טוב" alt="מת לחיות ביום טוב" title="מת לחיות ביום טוב" /></a><div class="upcoming_2 w2b">החל מיום חמישי</div><a href="http://movies.walla.co.il/movie/4862/%EE%FA%5F%EC%E7%E9%E5%FA%5F%E1%E9%E5%ED%5F%E8%E5%E1" class="w2b block"><b class="movie_title">מת לחיות ביום טוב</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.74 - 34 מצביעים">
+			<span style="width: 74%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style="margin-left:12px; position: relative;">
+<a href="http://movies.walla.co.il/movie/4878/%E4%F0%E6%EC%5F%E5%E2%F8%E8%EC%3A%5F%F7%E5%E8%EC%E9%5F%E4%EE%EB%F9%F4%E5%FA"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1433331-14.jpg" alt="הנזל וגרטל: קוטלי המכשפות" alt="הנזל וגרטל: קוטלי המכשפות" title="הנזל וגרטל: קוטלי המכשפות" /></a><div class="upcoming_1 w2b">החל מ- 21/2/2013</div><a href="http://movies.walla.co.il/movie/4878/%E4%F0%E6%EC%5F%E5%E2%F8%E8%EC%3A%5F%F7%E5%E8%EC%E9%5F%E4%EE%EB%F9%F4%E5%FA" class="w2b block"><b class="movie_title">הנזל וגרטל: קוטלי המכשפות</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.86 - 3 מצביעים">
+			<span style="width: 77%;" class="s_stars_rank"></span>
+		</span></span>
+</div><div class="movie_box2 right link" style=" position: relative;">
+<a href="http://movies.walla.co.il/movie/4886/%F8%E5%F7%5F%E1%F7%F1%E1%E4"><img class="movie_poster2" src="http://msc.wcdn.co.il/archive/1439709-14.jpg" alt="רוק בקסבה" alt="רוק בקסבה" title="רוק בקסבה" /></a><div class="upcoming_1 w2b">החל מ- 21/2/2013</div><a href="http://movies.walla.co.il/movie/4886/%F8%E5%F7%5F%E1%F7%F1%E1%E4" class="w2b block"><b class="movie_title">רוק בקסבה</b></a><span class="block" style="margin: 0px 19px 0px 19px"><span class="s_stars_bg" title="3.84 - 1 מצביעים">
+			<span style="width: 76%;" class="s_stars_rank"></span>
+		</span></span>
+</div> <span class="wcflow"></span>
+	</div>
+  
+</div>
+
+
+
+
+<div class="wp-0-b">
+    
+	<div><h2 class="hd0"><a href="/?w=/4515">טריילרים</a></h2></div>
+	<div class="relative" style="width:100%">
+			<div class="left_link_position link"><img src="http://isc.wcdn.co.il/w9/v/movies/2012/plus.gif" class="plus_img"><a href="/?w=/4515">לרשימה המלאה</a></div>
+    </div>
+	
+<div>
+<div align="center" class="box_139 right box_bg" style="position: relative;margin-left:14px;">
+<img src="http://isc.wcdn.co.il/w9/v/movies/2012/trailer/play_btn.gif" style="position: absolute; left: 3px; top: 88px;" alt="" title=""><a href="?w=/4501/2614397"><img class="m_139_105" src="http://msc.wcdn.co.il/w/w-140/1444157-18.jpg" alt="הנוער" alt="הנוער" title="הנוער" /></a><div class="link" style="height: 42px; text-align: right; padding: 0px 5px 0px 5px;"><a href="?w=/4501/2614397" class="w3b">הנוער</a></div><div style="margin: 0px 6px 0px 6px; border-top: solid 1px #D7DCE2; padding: 5px 12px 0px 0px;">
+		<span class="block right" style="margin-left: 5px;">דרוג:</span>	
+		<span class="s_stars_bg" title="0.00" style="margin: 0px; float: right;">
+			<span style="width: 0%;" class="s_stars_rank"></span>
+		</span>
+		
+</div>
+
+	
+</div><div align="center" class="box_139 right box_bg" style="position: relative;margin-left:14px;">
+<img src="http://isc.wcdn.co.il/w9/v/movies/2012/trailer/play_btn.gif" style="position: absolute; left: 3px; top: 88px;" alt="" title=""><a href="?w=/4501/2610702"><img class="m_139_105" src="http://msc.wcdn.co.il/w/w-140/1436699-18.jpg" alt="Inside Llewyn Davis" alt="Inside Llewyn Davis" title="Inside Llewyn Davis" /></a><div class="link" style="height: 42px; text-align: right; padding: 0px 5px 0px 5px;"><a href="?w=/4501/2610702" class="w3b">Inside Llewyn Davis</a></div><div style="margin: 0px 6px 0px 6px; border-top: solid 1px #D7DCE2; padding: 5px 12px 0px 0px;">
+		<span class="block right" style="margin-left: 5px;">דרוג:</span>	
+		<span class="s_stars_bg" title="0.00" style="margin: 0px; float: right;">
+			<span style="width: 0%;" class="s_stars_rank"></span>
+		</span>
+		
+</div>
+
+	
+</div><div align="center" class="box_139 right box_bg" style="position: relative;margin-left:14px;">
+<img src="http://isc.wcdn.co.il/w9/v/movies/2012/trailer/play_btn.gif" style="position: absolute; left: 3px; top: 88px;" alt="" title=""><a href="?w=/4501/2610787"><img class="m_139_105" src="http://msc.wcdn.co.il/w/w-140/1436722-18.jpg" alt="שבעה פסיכופטים" alt="שבעה פסיכופטים" title="שבעה פסיכופטים" /></a><div class="link" style="height: 42px; text-align: right; padding: 0px 5px 0px 5px;"><a href="?w=/4501/2610787" class="w3b">שבעה פסיכופטים</a></div><div style="margin: 0px 6px 0px 6px; border-top: solid 1px #D7DCE2; padding: 5px 12px 0px 0px;">
+		<span class="block right" style="margin-left: 5px;">דרוג:</span>	
+		<span class="s_stars_bg" title="0.00" style="margin: 0px; float: right;">
+			<span style="width: 0%;" class="s_stars_rank"></span>
+		</span>
+		
+</div>
+
+	
+</div><div align="center" class="box_139 right box_bg" style="position: relative;">
+<img src="http://isc.wcdn.co.il/w9/v/movies/2012/trailer/play_btn.gif" style="position: absolute; left: 3px; top: 88px;" alt="" title=""><a href="?w=/4501/2612183"><img class="m_139_105" src="http://msc.wcdn.co.il/w/w-140/1438848-18.jpg" alt="לרדת מהעץ" alt="לרדת מהעץ" title="לרדת מהעץ" /></a><div class="link" style="height: 42px; text-align: right; padding: 0px 5px 0px 5px;"><a href="?w=/4501/2612183" class="w3b">לרדת מהעץ</a></div><div style="margin: 0px 6px 0px 6px; border-top: solid 1px #D7DCE2; padding: 5px 12px 0px 0px;">
+		<span class="block right" style="margin-left: 5px;">דרוג:</span>	
+		<span class="s_stars_bg" title="0.00" style="margin: 0px; float: right;">
+			<span style="width: 0%;" class="s_stars_rank"></span>
+		</span>
+		
+</div>
+
+	
+</div>
+   </div>
+   <span class="wcflow"></span>
+</div>
+
+
+
+<div class="wp-0-b">
+
+    <div><h2 class="hd0"><a href="/?w=/@people">אנשי קולנוע</a></h2></div>
+    
+	<div class="relative" style="width:100%">
+	        <div class="left_link_position link"><img src="http://isc.wcdn.co.il/w9/v/movies/2012/plus.gif" class="plus_img"><a href="/?w=/@people">עוד אנשי קולנוע</a></div>
+    </div>
+	
+	
+
+	<div>
+<div align="center" class="box_96 right box_bg" style="margin-left:4px;">
+<a href="http://movies.walla.co.il/person/11690/%E8%E5%ED_%E4%F8%E3%E9" class="block" style="height: 120px; overflow: hidden; margin-bottom: 3px;"><img class="m_96_120" src="http://msc.wcdn.co.il/archive/820830-14.jpg" alt="טום הרדי"  title="טום הרדי" /></a><div style="padding-bottom:6px;" class="link"><a href="http://movies.walla.co.il/person/11690/%E8%E5%ED_%E4%F8%E3%E9" class="w2b">טום הרדי</a></div>
+</div><div align="center" class="box_96 right box_bg" style="margin-left:4px;">
+<a href="http://movies.walla.co.il/person/8452/%E0%EE%E9%EC%E9_%E1%EC%F0%E8" class="block" style="height: 120px; overflow: hidden; margin-bottom: 3px;"><img class="m_96_120" src="http://msc.wcdn.co.il/archive/1389362-14.jpg" alt="אמילי בלנט"  title="אמילי בלנט" /></a><div style="padding-bottom:6px;" class="link"><a href="http://movies.walla.co.il/person/8452/%E0%EE%E9%EC%E9_%E1%EC%F0%E8" class="w2b">אמילי בלנט</a></div>
+</div><div align="center" class="box_96 right box_bg" style="margin-left:4px;">
+<a href="http://movies.walla.co.il/person/759/%E2%E0%E9_%F4%E9%F8%F1" class="block" style="height: 120px; overflow: hidden; margin-bottom: 3px;"><img class="m_96_120" src="http://msc.wcdn.co.il/archive/1383611-14.jpg" alt="גאי פירס"  title="גאי פירס" /></a><div style="padding-bottom:6px;" class="link"><a href="http://movies.walla.co.il/person/759/%E2%E0%E9_%F4%E9%F8%F1" class="w2b">גאי פירס</a></div>
+</div><div align="center" class="box_96 right box_bg" style="margin-left:4px;">
+<a href="http://movies.walla.co.il/person/42/%E1%F8%E0%E3_%F4%E9%E8" class="block" style="height: 120px; overflow: hidden; margin-bottom: 3px;"><img class="m_96_120" src="http://msc.wcdn.co.il/archive/897828-14.jpg" alt="בראד פיט"  title="בראד פיט" /></a><div style="padding-bottom:6px;" class="link"><a href="http://movies.walla.co.il/person/42/%E1%F8%E0%E3_%F4%E9%E8" class="w2b">בראד פיט</a></div>
+</div><div align="center" class="box_96 right box_bg" style="margin-left:4px;">
+<a href="http://movies.walla.co.il/person/8222/%E0%E9%E9%EE%E9_%E0%E3%E0%EE%F1" class="block" style="height: 120px; overflow: hidden; margin-bottom: 3px;"><img class="m_96_120" src="http://msc.wcdn.co.il/archive/536409-14.jpg" alt="איימי אדמס"  title="איימי אדמס" /></a><div style="padding-bottom:6px;" class="link"><a href="http://movies.walla.co.il/person/8222/%E0%E9%E9%EE%E9_%E0%E3%E0%EE%F1" class="w2b">איימי אדמס</a></div>
+</div><div align="center" class="box_96 right box_bg" style="">
+<a href="http://movies.walla.co.il/person/2755/%E3%F0%E9%E0%EC_%F7%F8%E9%E9%E2" class="block" style="height: 120px; overflow: hidden; margin-bottom: 3px;"><img class="m_96_120" src="http://msc.wcdn.co.il/archive/1383457-14.jpg" alt="דניאל קרייג"  title="דניאל קרייג" /></a><div style="padding-bottom:6px;" class="link"><a href="http://movies.walla.co.il/person/2755/%E3%F0%E9%E0%EC_%F7%F8%E9%E9%E2" class="w2b">דניאל קרייג</a></div>
+</div>
+   </div>
+   <span class="wcflow"></span>
+</div><div class="wp-0-b">
+	<div class="right" style="margin-left: 20px; width: 290px;">
+		<script type="text/javascript">
+		var def_box1 = 0;
+		function selectTab_box1(item){
+			document.getElementById("b_box1_"+def_box1).style.height = "1px";
+			document.getElementById("b_box1_"+def_box1).style.width = "1px";
+			document.getElementById("b_box1_"+item).style.height = "auto";
+			document.getElementById("b_box1_"+item).style.width = "auto";
+			document.getElementById("t_box1_"+def_box1).className = "right title_un w2b";
+			document.getElementById("t_box1_"+item).className = "right title w2b";
+			def_box1 = item;
+		}
+	</script>
+	
+	<div class="lists">
+	<div id="t_box1_0" class="right title w2b"><a href="javascript: selectTab_box1(0)" class="title_url">חדשים ב-DVD</a></div><div id="t_box1_1" class="right title_un w2b"><a href="javascript: selectTab_box1(1)" class="title_url">הכי מושכרים</a></div><span class="wcflow"></span>
+	
+		<div class="container">
+		<div id="b_box1_0" class="main_container" ><div class="item_box">
+	<div class="right item_rank">1</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4687/%E7%E9%E5%FA%5F%E4%E3%F8%E5%ED%5F%E4%F4%F8%E0%E9">
+			<img src="http://msc.wcdn.co.il/archive/1302596-14.jpg" class="item_img" alt="חיות הדרום הפראי" title="חיות הדרום הפראי" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="http://movies.walla.co.il/movie/4687/%E7%E9%E5%FA%5F%E4%E3%F8%E5%ED%5F%E4%F4%F8%E0%E9" class="item_text_url">
+			חיות הדרום הפראי
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.66 - 64 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 73%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">2</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4602/%F2%EC%E9%E9%FA%E5%5F%F9%EC%5F%E4%E0%E1%E9%F8%5F%E4%E0%F4%EC">
+			<img src="http://msc.wcdn.co.il/archive/1311107-14.jpg" class="item_img" alt="עלייתו של האביר האפל" title="עלייתו של האביר האפל" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="http://movies.walla.co.il/movie/4602/%F2%EC%E9%E9%FA%E5%5F%F9%EC%5F%E4%E0%E1%E9%F8%5F%E4%E0%F4%EC" class="item_text_url">
+			עלייתו של האביר האפל
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.95 - 516 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 79%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">3</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4581/%E0%EE%E9%F6%E4">
+			<img src="http://msc.wcdn.co.il/archive/1249168-14.jpg" class="item_img" alt="אמיצה" title="אמיצה" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="http://movies.walla.co.il/movie/4581/%E0%EE%E9%F6%E4" class="item_text_url">
+			אמיצה
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.30 - 389 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 66%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">4</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4685/%E8%E3">
+			<img src="http://msc.wcdn.co.il/archive/1327028-14.jpg" class="item_img" alt="טד" title="טד" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="http://movies.walla.co.il/movie/4685/%E8%E3" class="item_text_url">
+			טד
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.20 - 700 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 64%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">5</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4642/%F9%E5%EE%F8%E9%ED%5F%F2%EC%5F%E4%F9%EB%E5%F0%E4">
+			<img src="http://msc.wcdn.co.il/archive/1302107-14.jpg" class="item_img" alt="שומרים על השכונה" title="שומרים על השכונה" /></div>
+		</a>
+	<div class="right item_text w4b" style="border: solid 0px;">
+		<a href="http://movies.walla.co.il/movie/4642/%F9%E5%EE%F8%E9%ED%5F%F2%EC%5F%E4%F9%EB%E5%F0%E4" class="item_text_url">
+			שומרים על השכונה
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.58 - 99 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 71%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div></div><div id="b_box1_1" class="main_container"  style="height: 1px; width: 1px;"><div class="item_box">
+	<div class="right item_rank">1</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4766/%E4%F2%E9%FA%E5%F0%E0%E9">
+			<img src="http://msc.wcdn.co.il/archive/1334400-14.jpg" class="item_img" alt="העיתונאי" title="העיתונאי" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="http://movies.walla.co.il/movie/4766/%E4%F2%E9%FA%E5%F0%E0%E9" class="item_text_url">
+			העיתונאי
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.59 - 36 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 71%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">2</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4696/%F4%F8%F0%F7%F0%E5%E5%E9%F0%E9">
+			<img src="http://msc.wcdn.co.il/archive/1373032-14.jpg" class="item_img" alt="פרנקנוויני" title="פרנקנוויני" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="http://movies.walla.co.il/movie/4696/%F4%F8%F0%F7%F0%E5%E5%E9%F0%E9" class="item_text_url">
+			פרנקנוויני
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.68 - 55 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 73%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">3</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4687/%E7%E9%E5%FA%5F%E4%E3%F8%E5%ED%5F%E4%F4%F8%E0%E9">
+			<img src="http://msc.wcdn.co.il/archive/1302596-14.jpg" class="item_img" alt="חיות הדרום הפראי" title="חיות הדרום הפראי" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="http://movies.walla.co.il/movie/4687/%E7%E9%E5%FA%5F%E4%E3%F8%E5%ED%5F%E4%F4%F8%E0%E9" class="item_text_url">
+			חיות הדרום הפראי
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.66 - 64 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 73%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">4</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4685/%E8%E3">
+			<img src="http://msc.wcdn.co.il/archive/1327028-14.jpg" class="item_img" alt="טד" title="טד" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="http://movies.walla.co.il/movie/4685/%E8%E3" class="item_text_url">
+			טד
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.20 - 700 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 64%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">5</div>
+	<div class="right item_img">
+		<a href="http://movies.walla.co.il/movie/4642/%F9%E5%EE%F8%E9%ED%5F%F2%EC%5F%E4%F9%EB%E5%F0%E4">
+			<img src="http://msc.wcdn.co.il/archive/1302107-14.jpg" class="item_img" alt="שומרים על השכונה" title="שומרים על השכונה" /></div>
+		</a>
+	<div class="right item_text w4b" style="border: solid 0px;">
+		<a href="http://movies.walla.co.il/movie/4642/%F9%E5%EE%F8%E9%ED%5F%F2%EC%5F%E4%F9%EB%E5%F0%E4" class="item_text_url">
+			שומרים על השכונה
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.58 - 99 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 71%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div></div>
+		</div>
+	</div>
+	</div>
+	<div class="right" style="width: 290px;">
+		<script type="text/javascript">
+		var def_box2 = 0;
+		function selectTab_box2(item){
+			document.getElementById("b_box2_"+def_box2).style.height = "1px";
+			document.getElementById("b_box2_"+def_box2).style.width = "1px";
+			document.getElementById("b_box2_"+item).style.height = "auto";
+			document.getElementById("b_box2_"+item).style.width = "auto";
+			document.getElementById("t_box2_"+def_box2).className = "right title_un w2b";
+			document.getElementById("t_box2_"+item).className = "right title w2b";
+			def_box2 = item;
+		}
+	</script>
+	
+	<div class="lists">
+	<div id="t_box2_0" class="right title w2b"><a href="javascript: selectTab_box2(0)" class="title_url">שוברי קופות ארה"ב</a></div><div id="t_box2_1" class="right title_un w2b"><a href="javascript: selectTab_box2(1)" class="title_url">דרוג הגולשים</a></div><span class="wcflow"></span>
+	
+		<div class="container">
+		<div id="b_box2_0" class="main_container" ><div class="item_box">
+	<div class="right item_rank">1</div>
+	<div class="right item_img">
+		<a href="?w=/4501/2609661">
+			<img src="http://msc.wcdn.co.il/archive/1439711-14.jpg" class="item_img" alt="מת עליה" title="מת עליה" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="?w=/4501/2609661" class="item_text_url">
+			מת עליה
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="0.00" style="margin: 0px; float: right;">
+			<span style="width: 0%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">2</div>
+	<div class="right item_img">
+		<a href="?w=/200/2564636">
+			<img src="http://msc.wcdn.co.il/archive/1433331-14.jpg" class="item_img" alt="הנזל וגרטל: קוטלי המכשפות" title="הנזל וגרטל: קוטלי המכשפות" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="?w=/200/2564636" class="item_text_url">
+			הנזל וגרטל: קוטלי המכשפות
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="0.00" style="margin: 0px; float: right;">
+			<span style="width: 0%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">3</div>
+	<div class="right item_img">
+		<a href="?w=/4501/2554541">
+			<img src="http://msc.wcdn.co.il/archive/1374055-14.jpg" class="item_img" alt="אופטימיות היא שם המשחק" title="אופטימיות היא שם המשחק" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="?w=/4501/2554541" class="item_text_url">
+			אופטימיות היא שם המשחק
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="0.00" style="margin: 0px; float: right;">
+			<span style="width: 0%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">4</div>
+	<div class="right item_img">
+		<a href="?w=/4501/2568627">
+			<img src="http://msc.wcdn.co.il/archive/1433347-14.jpg" class="item_img" alt="Mama" title="Mama" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="?w=/4501/2568627" class="item_text_url">
+			Mama
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="0.00" style="margin: 0px; float: right;">
+			<span style="width: 0%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">5</div>
+	<div class="right item_img">
+		<a href="?w=//2556714">
+			<img src="http://msc.wcdn.co.il/archive/1431874-14.jpg" class="item_img" alt="כוונת עם שחר" title="כוונת עם שחר" /></div>
+		</a>
+	<div class="right item_text w4b" style="border: solid 0px;">
+		<a href="?w=//2556714" class="item_text_url">
+			כוונת עם שחר
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.78 - 21 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 75%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+		
+	</div>
+	<span class="wcflow"></span>
+	</div></div><div id="b_box2_1" class="main_container"  style="height: 1px; width: 1px;"><div class="item_box">
+	<div class="right item_rank">1</div>
+	<div class="right item_img">
+		<a href="/movie/4513/%EE%F9%E7%F7%E9%5F%E4%F8%F2%E1">
+			<img src="http://msc.wcdn.co.il/archive/1194134-14.jpg" class="item_img" alt="משחקי הרעב" title="משחקי הרעב" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="/movie/4513/%EE%F9%E7%F7%E9%5F%E4%F8%F2%E1" class="item_text_url">
+			משחקי הרעב
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="4.00 - 1012 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 80%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">2</div>
+	<div class="right item_img">
+		<a href="/movie/4478/%E4%F0%E5%F7%EE%E9%ED">
+			<img src="http://msc.wcdn.co.il/archive/1225993-14.jpg" class="item_img" alt="הנוקמים" title="הנוקמים" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="/movie/4478/%E4%F0%E5%F7%EE%E9%ED" class="item_text_url">
+			הנוקמים
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="4.00 - 502 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 80%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">3</div>
+	<div class="right item_img">
+		<a href="/movie/4528/%E2%E1%F8%E9%ED%5F%E1%F9%E7%E5%F8%5F%33">
+			<img src="http://msc.wcdn.co.il/archive/1253899-14.jpg" class="item_img" alt="גברים בשחור 3" title="גברים בשחור 3" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="/movie/4528/%E2%E1%F8%E9%ED%5F%E1%F9%E7%E5%F8%5F%33" class="item_text_url">
+			גברים בשחור 3
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.90 - 85 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 78%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">4</div>
+	<div class="right item_img">
+		<a href="/movie/4569/%F8%E7%E5%E1%5F%E2%27%E0%EE%F4%5F%32%31">
+			<img src="http://msc.wcdn.co.il/archive/1215024-14.jpg" class="item_img" alt="רחוב ג'אמפ 21" title="רחוב ג'אמפ 21" /></div>
+		</a>
+	<div class="right item_text w4b" >
+		<a href="/movie/4569/%F8%E7%E5%E1%5F%E2%27%E0%EE%F4%5F%32%31" class="item_text_url">
+			רחוב ג'אמפ 21
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.90 - 146 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 78%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+	</div>
+	<span class="wcflow"></span>
+	</div><div class="item_box">
+	<div class="right item_rank">5</div>
+	<div class="right item_img">
+		<a href="/movie/4598/%E0%E5%F8%E7%E9%ED%5F%EC%F8%E2%F2">
+			<img src="http://msc.wcdn.co.il/archive/1237381-14.jpg" class="item_img" alt="אורחים לרגע" title="אורחים לרגע" /></div>
+		</a>
+	<div class="right item_text w4b" style="border: solid 0px;">
+		<a href="/movie/4598/%E0%E5%F8%E7%E9%ED%5F%EC%F8%E2%F2" class="item_text_url">
+			אורחים לרגע
+			<span class="block" style="margin-top: 5px;"><span class="s_stars_bg" title="3.90 - 18 מצביעים" style="margin: 0px; float: right;">
+			<span style="width: 78%;" class="s_stars_rank"></span>
+		</span></span>
+		</a>
+	</div>
+	<span class="wcflow"></span>
+	</div></div>
+		</div>
+	</div>
+	</div>
+	<span class="wcflow"></span>
+</div></td>
+</tr>
+</table>
+<style type="text/css">.top_toolbar .btm_sep{z-index:1 !important;}</style>
+<br>
+
+<style type="text/css">
+			.v_f_wrapper{;}
+			.v_f{position:relative;zoom:1;direction:rtl;padding:0px;font-size:1px;margin-bottom:10px;text-align:right;}
+			.v_f a{text-decoration:none;color:#000066;display:inline-block;padding-left:7px;height:12px;line-height:10px;line-height:"12px";}
+			.v_f a.brd{border-right:1px solid #cccccc;padding-right:8px;}
+			.v_f a.rss{font-size:11px;padding-left:17px;margin-left:8px;background:url(http://isc.wcdn.co.il/w9/v/rss.gif) no-repeat center left}
+			.v_f a:hover{color:#000088;}
+		</style><div style="background:#e0e0e0; overflow:hidden;height:1px; margin-bottom:5px; "></div><div class="v_f_wrapper">
+				<div id="v_f" class="v_f zoom1">
+					<a class="w2" style="font-weight:900" href="http://advertise.walla.co.il">פרסם בוואלה!</a>
+					<a class="w2 brd" href="http://help.walla.co.il">עזרה</a>
+					<a class="w2 brd" href="http://www.walla.co.il/ts.cgi?w=http://help.walla.co.il/ts.cgi?tsscript=feedback/edit">כתבו לנו</a>
+					<a class="w2 brd" href="http://friends.walla.co.il/ts.cgi?tsscript=disclaimer">תנאי שימוש</a>
+					<a class="w2 brd" href="http://www.jobcity.co.il/דרושים_וואלה">דרושים</a>
+					<a class="w2 brd" href="http://ir.walla.co.il/">אודות</a>
+					<a class="w2 brd" href="http://cellular.walla.co.il/?w=/@wapLink"><span>סלולר</span></a>
+					<a class="w2 brd" href="http://tags.walla.co.il/"><span>תגיות</span></a>
+					<a class="w2 brd" href="http://www.walla.co.il/archive/"><span>ארכיון</span></a>
+					<a class="w2 brd rss" onclick="Evt(this,3,'rss',6,&quot;Rss&quot;,1)" href="http://rss.walla.co.il/" class="w2b"><span>RSS</span></a>
+					<div class="absolute" style="left:5;top:-2px;"><span style="color:4a4a4a;font-size:11px;">Copyright © 2013 Walla! Communications LTD. All rights reserved</span></div>
+				</div>
+			</div>
+</div>
+</div><script type="text/javascript"> window.Fusion.space("nickbar"); </script>
+			
+		
+		<!-- (C)2000-2011 Gemius SA - gemiusAudience / walla.co.il / movies -->
+		<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		var pp_gemius_identifier = new String('0nHgJCOpNwv4yoboEhJbp8QL.j2yn2MGng2bRC3LdH..d7');
+		//--><!]]>
+		</script>
+		<script type="text/javascript" src="http://www.walla.co.il/2009/@/js/gemius.js"></script>
+	<script type="text/javascript">var ct_t=window.Fusion.mediaZone; ct_t1=ct_t.split(".");var ct_t2=(ct_t1.length==5)?ct_t1[2]+","+ct_t1[3]:ct_t1[2]; var _sf_async_config={uid:20047,domain:"movies.walla.co.il",sections:"movies,"+ct_t2,authors:""};	(function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute("src",(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +"js/chartbeat.js"); document.body.appendChild(e);} var oldonload = window.onload; window.onload = (typeof window.onload != "function") ? loadChartbeat : function() { oldonload(); loadChartbeat(); };})(); </script>
+		<div style="height: 1px; margin-top: -1px; overflow: hidden;">
+			<!-- Google Code for Remarketing tag -->
+			<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+			<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 1002714599;
+			var google_conversion_label = "TyhRCMGLpgMQ5-uQ3gM";
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+			</script>
+			<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+			</script>
+			<noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002714599/?value=0&amp;label=TyhRCMGLpgMQ5-uQ3gM&amp;guid=ON&amp;script=0"/>
+			</div>
+			</noscript>
+		</div>
+	</body>
+</html>
+<SCRIPT LANGUAGE="JavaScript" src=http://www.walla.co.il/2009/@/js/inner_mega_adtoma.js></SCRIPT>
