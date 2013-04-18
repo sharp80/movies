@@ -56,27 +56,14 @@ public class DbControl
             }
             if (alreadyHasTimeInDb == false)
             {
-                // Create the InsertCommand.
-                MySqlCommand command = new MySqlCommand(
-                    "INSERT INTO movies_times (movieId) " +
-                    "VALUES (@movieId)", m_cn);
-                command.Parameters.Add("@movieId", SqlDbType.Int);
-
-                //  m_dr1.InsertCommand = command;
-
                 DataRow newRow = m_dataSet.Tables[1].NewRow();
                 newRow["movieId"] = movieId;
                 newRow["movieTime"] = time;
                 newRow["locationId"] = locationId;
-                //  newRow.SetAdded();
+              
                 m_dataSet.Tables["movies_times"].Rows.Add(newRow);
-                /*newRow.AcceptChanges();
-                m_dataSet.Tables[1].AcceptChanges();
-                m_dataSet.AcceptChanges();*/
-                //  m_dr1.Update(m_dataSet,"movies_times");
 
-                MySqlCommandBuilder projectBuilder = new MySqlCommandBuilder(m_dr1);
-                //   DataSet newSet = m_dataSet.GetChanges(DataRowState.Added);
+                MySqlCommandBuilder projectBuilder = new MySqlCommandBuilder(m_dr1);            
                 m_dr1.Update(m_dataSet, "movies_times");
             }
         }
