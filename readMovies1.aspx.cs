@@ -191,15 +191,16 @@ public class RootObject
                             string timesPage = readPage1(@"http://movies.walla.co.il/?w=/@ajax.movie.projection.time&movie_id=" + movieId + "&cinema_id=" + cinemaId);
                             //Response.Write(timesPage+"<BR>");
                             string[] timesPageLines = timesPage.Split(new string[] { "</tr>" }, StringSplitOptions.RemoveEmptyEntries);
+                            List<DateTime> dates = new List<DateTime>();
                             foreach (string timesLine in timesPageLines)
                             {
 
                                 if (timesLine.Replace("<BR>", "").Replace(">", "").Replace("<", "").Replace(" ", "").Length < 4)
                                     continue;
-                                List<DateTime> dates = GetTimesAndDays(timesLine);
-                                if (dates!= null)
-                                    dbControl.addMovieTimes(Int32.Parse(movieId), dates, Int32.Parse(cinemaId));   
+                                GetTimesAndDays(timesLine, dates);
                             }
+                            if (dates != null && dates.Count > 0)
+                                dbControl.addMovieTimes(Int32.Parse(movieId), dates, Int32.Parse(cinemaId));
                         }
                     }
                 }
@@ -215,7 +216,7 @@ public class RootObject
 
             }
         }
-        private List<DateTime> GetTimesAndDays(string timesLine)
+        private void GetTimesAndDays(string timesLine, List<DateTime> dateTimeList)
         {
             try
             {
@@ -232,8 +233,7 @@ public class RootObject
                 tempTimesLine = getDays(tempTimesLine, dayslist);
                 if (dayslist.Count != 0 && timeList.Count != 0)
                 {
-                    List<DateTime> dateList  = convertDaysToDate(dayslist, timeList);
-                    return dateList;
+                    dateTimeList  = convertDaysToDate(dayslist, timeList);
                 }
             }
             catch (ArgumentOutOfRangeException e1)
